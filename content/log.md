@@ -226,3 +226,17 @@ Pages consulted:
 - `wiki/concepts/acpo-four-principles-of-digital-evidence.md`
 
 Output filed: yes — `wiki/analyses/agafa-go-no-go-deployment-gate.md`
+
+## [2026-04-17] query | generate and maintain bibliography
+
+Pages consulted:
+- `wiki/sources/agafa.md`
+- `wiki/sources/acpo-good-practice-guide-digital-evidence-v5.md`
+- `wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md`
+- `wiki/sources/reasoning-with-rules-and-ontologies-reasoning-web-2006.md`
+- `wiki/sources/what-is-answer-set-programming-lifschitz-2008.md`
+- `wiki/sources/the-proactive-and-reactive-digital-forensics-investigation-process.md`
+- `wiki/sources/quality-standards-for-digital-forensics.md`
+- `CLAUDE.md`
+
+Output filed: yes — `wiki/bibliography.md`

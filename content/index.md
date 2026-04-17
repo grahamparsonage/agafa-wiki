@@ -19,6 +19,7 @@ Each entry follows this format:
 |---|---|---|
 | [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-17 |
 | [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-17 |
+| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-04-17 |
 
 ---
 
