@@ -1,6 +1,6 @@
 # Wiki Index
 
-Master catalog of all pages. The LLM reads this first when answering queries to find relevant pages. Updated on every ingest.
+Master catalog of all pages with short summaries for navigation. Updated on every ingest.
 
 ---
 
@@ -17,9 +17,9 @@ Each entry follows this format:
 
 | Page | Summary | Updated |
 |---|---|---|
-| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-17 |
-| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-17 |
-| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-04-17 |
+| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-19 |
+| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-19 |
+| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-04-19 |
 
 ---
 
@@ -34,6 +34,9 @@ Each entry follows this format:
 - [[what-is-answer-set-programming-lifschitz-2008]] — Foundational ASP overview covering stable models, solver behavior, and generate-define-test methodology | source | 2026-04-17
 - [[the-proactive-and-reactive-digital-forensics-investigation-process]] — SLR-derived model integrating proactive live evidence handling with reactive post-incident investigation | source | 2026-04-17
 - [[quality-standards-for-digital-forensics]] — Empirical UK-focused review of accreditation-driven quality improvements and implementation burdens in DF units | source | 2026-04-17
+- [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]] — Survey of ASP applications across AI, sciences, and industry with solver and challenge discussion | source | 2026-04-19
+- [[how-ontologies-have-supported-digital-forensics-fsr-2024]] — SLR of 29 DF ontologies across six questions (methods, taxonomy, feasibility, evaluation, phases, subareas) with practitioner recommendations | source | 2026-04-19
+- [[kag-boosting-llms-professional-domains-2025]] — WWW ’25 KAG framework: semantic-graph indexing, logical-form QA, hybrid retrieval; OpenSPG reference stack | source | 2026-04-19
 
 ---
 
@@ -67,15 +70,15 @@ Each entry follows this format:
 
 - [[legal-constraints-in-digital-forensics]] — Legal and procedural constraints shaping admissible, auditable DF workflows | concept | 2026-04-17
 - [[neuro-symbolic-ai]] — Hybrid AI approach combining neural learning with symbolic reasoning for transparency and control | concept | 2026-04-17
-- [[retrieval-augmented-generation-rag]] — Retrieval-grounded generation pattern to improve factuality and domain relevance | concept | 2026-04-17
-- [[knowledge-augmented-generation-kag]] — Structured-knowledge-enhanced generation using ontologies/graphs for context-sensitive retrieval | concept | 2026-04-17
-- [[answer-set-programming-asp]] — Declarative logic paradigm for formal rule-based validation and reproducibility | concept | 2026-04-17
+- [[retrieval-augmented-generation-rag]] — Retrieval-grounded generation pattern to improve factuality and domain relevance | concept | 2026-04-19
+- [[knowledge-augmented-generation-kag]] — Structured-knowledge-enhanced generation using ontologies/graphs for context-sensitive retrieval | concept | 2026-04-19
+- [[answer-set-programming-asp]] — Declarative logic paradigm for formal rule-based validation and reproducibility | concept | 2026-04-19
 - [[acpo-four-principles-of-digital-evidence]] — UK-focused four-principle baseline for evidence integrity and accountability | concept | 2026-04-17
 - [[digital-forensic-triage-and-proportionality]] — UK-focused triage-as-process and proportionate scope decisions | concept | 2026-04-17
 - [[audit-trail-and-reproducibility-in-df]] — Process recording and independent reproducibility expectations in DF | concept | 2026-04-17
-- [[ontology-engineering-in-digital-forensics]] — Formal ontology modeling for machine-interpretable evidence integration and reasoning | concept | 2026-04-17
+- [[ontology-engineering-in-digital-forensics]] — Formal ontology modeling for machine-interpretable evidence integration and reasoning | concept | 2026-04-19
 - [[semantic-web-standards-for-digital-forensics-automation]] — RDF/OWL/SWRL/SPARQL foundations for semantic DF automation workflows | concept | 2026-04-17
-- [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-04-17
+- [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-04-19
 - [[rules-and-ontologies-integration]] — Integration pattern combining ontology semantics with explicit rule-based derivations | concept | 2026-04-17
 - [[semantic-web-querying-and-inference-patterns]] — Query and inference pattern families for RDF/ontology-centered reasoning workflows | concept | 2026-04-17
 - [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-04-17
@@ -103,6 +106,7 @@ Each entry follows this format:
 - [[agafa-role-in-proactive-reactive-df-process]] — Maps AGAFA to proactive/reactive phases as an analysis/validation component with governance dependencies | analysis | 2026-04-17
 - [[agafa-use-cases-under-acpo-and-quality-standards]] — Use-case-by-use-case fit assessment for AGAFA under ACPO controls and ISO/IEC 17025-style quality expectations | analysis | 2026-04-17
 - [[agafa-go-no-go-deployment-gate]] — Green/amber/red deployment readiness gate for AGAFA under ACPO and DF quality-system controls | analysis | 2026-04-17
+- [[agafa-ontology-kag-asp-pipeline-suitability]] — Fit assessment for ontology-grounded KAG retrieval with ASP verification in AGAFA | analysis | 2026-04-19
 
 ---
 

@@ -2,7 +2,7 @@
 title: What Is Answer Set Programming?
 type: source
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 sources: [What is answer set programming.pdf]
 tags: [source, asp, logic-programming, nonmonotonic-reasoning, declarative-programming]
 ---
@@ -26,5 +26,6 @@ Lifschitz, V. (2008). *What Is Answer Set Programming?* In Proceedings of the Tw
 
 ## Related pages
 - [[agafa-framework]]
+- [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]]
 - [[reasoning-with-rules-and-ontologies-reasoning-web-2006]]
 - [[index]]

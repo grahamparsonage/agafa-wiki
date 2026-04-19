@@ -2,7 +2,7 @@
 title: AGAFA Framework
 type: product
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 sources: [AGAFA.pdf, ACPO.pdf]
 tags: [digital-forensics, xai, neuro-symbolic, llm, ontology, asp]
 ---
@@ -37,6 +37,7 @@ Case examples are summarized at a high level only. No procedural or operational 
 
 ## Related pages
 - [[agafa]]
+- [[agafa-ontology-kag-asp-pipeline-suitability]]
 - [[legal-constraints-in-digital-forensics]]
 - [[neuro-symbolic-ai]]
 - [[retrieval-augmented-generation-rag]]

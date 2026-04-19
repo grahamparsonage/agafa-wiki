@@ -2,8 +2,8 @@
 title: Answer Set Programming (ASP)
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [AGAFA.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf]
+updated: 2026-04-19
+sources: [AGAFA.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf]
 tags: [logic, asp, verification, rules, explainability]
 ---
 
@@ -14,6 +14,9 @@ ASP models a problem as logical rules. Solvers compute answer sets that represen
 
 ## Canonical framing
 Lifschitz (2008) frames ASP as a declarative approach to hard search tasks grounded in stable model semantics, with practical solver behavior influenced by SAT-style search techniques.
+
+## Application landscape
+Erdem, Gelfond, and Leone (2016) survey deployed and research ASP uses across AI (for example planning, configuration, diagnosis, preferences, argumentation, and Semantic-Web-related settings), life sciences, robotics, and industrial case studies, and they discuss tooling (e.g., clasp, DLV, Smodels) and recurring engineering challenges. See [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]].
 
 ## Why it matters
 - Provides formal, explicit reasoning and constraint checking.
@@ -47,3 +50,4 @@ ASP is one implementation path for rule-centric reasoning, while broader Semanti
 - [[legal-constraints-in-digital-forensics]]
 - [[rules-and-ontologies-integration]]
 - [[what-is-answer-set-programming-lifschitz-2008]]
+- [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]]

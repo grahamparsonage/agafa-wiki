@@ -2,7 +2,7 @@
 title: "AI in Digital Forensics: Ontology Engineering for Cybercrime Investigations"
 type: source
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 sources: [WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf]
 tags: [source, digital-forensics, ontology-engineering, semantic-web, automation]
 ---
@@ -25,6 +25,7 @@ Sikos, L. F. (2021). *AI in digital forensics: Ontology engineering for cybercri
 - Related existing concepts: [[knowledge-augmented-generation-kag]], [[audit-trail-and-reproducibility-in-df]], [[legal-constraints-in-digital-forensics]]
 
 ## Related pages
+- [[how-ontologies-have-supported-digital-forensics-fsr-2024]]
 - [[agafa-framework]]
 - [[neuro-symbolic-ai]]
 - [[acpo-good-practice-guide-digital-evidence-v5]]

@@ -2,24 +2,24 @@
 title: Overview
 type: overview
 created: 2026-04-07
-updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf]
+updated: 2026-04-19
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf]
 tags: [overview, synthesis]
 ---
 
 # Knowledge Base Overview
 
-*This page is the LLM's working synthesis of everything in the wiki. It updates after every ingest that shifts the big picture.*
+*High-level synthesis of the knowledge base; update after every ingest that shifts the big picture.*
 
 ---
 
 ## Current State
 
-This wiki now includes seven ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, ontology-engineering, rule/ontology integration, and ASP-foundations guidance for explainable digital forensics.
+This wiki now includes ten ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, ontology-engineering (including an SLR of DF ontologies), rule/ontology integration, ASP foundations, an ASP application survey, and a reference KAG architecture paper for explainable digital forensics.
 
-**Source count:** 7
-**Wiki pages:** 34 (index, log, overview, glossary, 7 sources, 1 product, 16 concepts, 1 style rule, 5 analyses)
-**Last ingest:** 2026-04-17 — Quality standards for digital forensics
+**Source count:** 10
+**Wiki pages:** 41 (index, log, overview, glossary, bibliography, 10 sources, 1 product, 16 concepts, 1 style rule, 8 analyses)
+**Last ingest:** 2026-04-19 — KAG: Boosting LLMs in Professional Domains (WWW Companion ’25)
 **Last lint:** —
 
 ---
@@ -33,11 +33,11 @@ Current coverage includes:
 - ACPO digital evidence principles as a UK-focused procedural baseline
 - Proactive/reactive DF process modeling for live evidence capture and post-incident handoff
 - Quality standards and accreditation practice (ISO/IEC 17025-oriented) for DF reliability assurance
-- Ontology-engineering patterns for semantic evidence integration and automation
+- Ontology-engineering patterns for semantic evidence integration and automation, plus a systematic map of DF ontology practices (29 ontologies, six research dimensions)
 - Rules-and-ontologies integration patterns for explicit derivation workflows
-- ASP foundations including stable model semantics and generate-define-test modeling
+- ASP foundations including stable model semantics and generate-define-test modeling, plus an applications-level survey of deployed and research uses
 - Neuro-symbolic architecture patterns for forensic workflows
-- RAG/KAG knowledge-grounding approaches
+- RAG/KAG knowledge-grounding approaches, including relation-first semantic-graph indexing and logical-form retrieval as defined in Liang et al. (2025)
 - ASP-based rule validation
 - Legal/admissibility-oriented constraints in investigative contexts
 
@@ -69,7 +69,7 @@ Current coverage includes:
 
 ## Knowledge Gaps
 
-*(Areas where more sources are needed. The LLM will flag these during ingests and lint passes.)*
+*(Areas where more sources are needed — flag during ingests and lint passes.)*
 
 ---
 

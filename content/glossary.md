@@ -2,14 +2,14 @@
 title: Glossary
 type: glossary
 created: 2026-04-07
-updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf]
+updated: 2026-04-19
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf]
 tags: [terminology, style, glossary]
 ---
 
 # Glossary
 
-Living reference of terms, definitions, and style conventions. The LLM checks this before using any technical term. Updated on every ingest that introduces new or refined terminology.
+Living reference of terms, definitions, and style conventions; use canonical terms from here consistently across the wiki. Updated on every ingest that introduces new or refined terminology.
 
 ---
 
@@ -47,9 +47,9 @@ Each entry follows this format:
 - See also: [[retrieval-augmented-generation-rag]]
 
 **Knowledge-Augmented Generation (KAG)** *(canonical form)*
-: A retrieval/generation approach that incorporates structured knowledge (for example ontologies/knowledge graphs) to improve context-sensitive outputs.
+: A retrieval/generation approach that incorporates structured knowledge (for example ontologies/knowledge graphs) to improve context-sensitive outputs; Liang et al. (2025) instantiate KAG with semantic-graph indexing, logical-form parsing, and relation-aware retrieval on OpenSPG.
 - Preferred: `KAG` / Avoid: `graph RAG` (unless specifically defining a variant)
-- See also: [[knowledge-augmented-generation-kag]]
+- See also: [[knowledge-augmented-generation-kag]], [[kag-boosting-llms-professional-domains-2025]]
 
 **Ontology (OWL)** *(canonical form)*
 : A formal, explicit specification of shared domain concepts and relationships; used for constraint modeling and reusable vocabularies.
@@ -121,6 +121,11 @@ Each entry follows this format:
 - Preferred: `ontology engineering` / Avoid: `simple taxonomy` (when expressive semantics are required)
 - See also: [[ontology-engineering-in-digital-forensics]]
 
+**Systematic literature review (SLR)** *(canonical form)*
+: Structured protocol for searching, screening, and synthesizing primary studies against predefined questions; used in Silva et al. (2024) to consolidate evidence about digital-forensics ontologies.
+- Preferred: `systematic literature review` or `SLR` after first expansion / Avoid: `literature survey` (when formal SLR criteria were applied)
+- See also: [[how-ontologies-have-supported-digital-forensics-fsr-2024]]
+
 **Semantic Web Stack (DF automation)** *(canonical form)*
 : Standards set commonly including RDF, RDFS, OWL, SWRL, and SPARQL for representing and reasoning over forensic knowledge.
 - Preferred: `semantic web standards` / Avoid: `ad hoc schema layer`
@@ -145,6 +150,11 @@ Each entry follows this format:
 : Common ASP modeling organization where rules generate candidates, auxiliary rules define derived predicates, and constraints test/filter invalid candidates.
 - Preferred: `generate-define-test` / Avoid: `single-phase ASP encoding`
 - See also: [[answer-set-programming-asp]]
+
+**ASP solver (exemplar systems)** *(canonical form)*
+: Major answer-set solvers frequently cited in ASP application literature include clasp (Potassco), DLV, and Smodels; the right choice depends on language fragment, grounding behavior, and performance profile.
+- Preferred: list explicitly (`clasp`, `DLV`, `Smodels`) when comparing tooling / Avoid: `ASP engine` (ambiguous with unrelated rule engines)
+- See also: [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]]
 
 **Proactive Forensics (DF process context)** *(canonical form)*
 : Digital forensics activities performed during live system operation to collect, preserve, and preliminarily analyze potential evidence as events occur.

@@ -2,7 +2,7 @@
 title: Retrieval-Augmented Generation (RAG)
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-19
 sources: [AGAFA.pdf]
 tags: [llm, rag, retrieval, grounding, knowledge]
 ---
@@ -33,5 +33,6 @@ RAG is paired with ontology-informed knowledge and constrained output representa
 
 ## Related pages
 - [[knowledge-augmented-generation-kag]]
+- [[kag-boosting-llms-professional-domains-2025]]
 - [[agafa-framework]]
 - [[neuro-symbolic-ai]]

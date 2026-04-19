@@ -240,3 +240,74 @@ Pages consulted:
 - `CLAUDE.md`
 
 Output filed: yes — `wiki/bibliography.md`
+
+## [2026-04-19] ingest | Applications of Answer Set Programming
+
+Source: Erdem, Gelfond, & Leone (2016), *AI Magazine* 37(3) — `Applications of Answer Set Programming.pdf` (add to `raw/` if not present locally; open access: https://doi.org/10.1609/aimag.v37i3.2678)
+
+Pages created:
+- `wiki/sources/applications-of-answer-set-programming-erdem-gelfond-leone-2016.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/concepts/answer-set-programming-asp.md`
+- `wiki/sources/what-is-answer-set-programming-lifschitz-2008.md`
+
+Key additions:
+- Application-area survey (AI, life sciences, robotics, industry) and exemplar solvers (clasp, DLV, Smodels) with engineering trade-off framing
+- Glossary term for exemplar ASP solvers
+- Deeper cross-linking between ASP foundation and applications sources
+
+## [2026-04-19] ingest | How ontologies have supported digital forensics (Forensic Science Review)
+
+Source: Silva, Oliveira Jr., & Zorzo (2024), *Forensic Science Review* 36(2):99–125 — raw `36(2)-4 (web).pdf` (three-page excerpt; full article recommended for detailed SLR tables and recommendations)
+
+Pages created:
+- `wiki/sources/how-ontologies-have-supported-digital-forensics-fsr-2024.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/concepts/ontology-engineering-in-digital-forensics.md`
+- `wiki/concepts/digital-forensic-ontology-standardization.md`
+- `wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md`
+
+Key additions:
+- SLR framing: 29 ontologies, six research dimensions (methods/tools/sources, ontology types, construction pitfalls, evaluation methods, forensic-phase coverage, subareas)
+- Glossary entry for systematic literature review (SLR) in DF ontology context
+- Cross-links between WIREs ontology-engineering review and this SLR-oriented source
+
+## [2026-04-19] ingest | KAG: Boosting LLMs in Professional Domains (WWW Companion ’25)
+
+Source: Liang et al. (2025) — raw `KAG.pdf` (CC BY 4.0). https://doi.org/10.1145/3701716.3715240
+
+Pages created:
+- `wiki/sources/kag-boosting-llms-professional-domains-2025.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/concepts/knowledge-augmented-generation-kag.md`
+- `wiki/concepts/retrieval-augmented-generation-rag.md`
+
+Key additions:
+- Canonical technical description of KAG modules (semantic graph indexing, semantic parsing/logical forms, semantic retrieval, task control) and OpenSPG deployment path
+- Empirical benchmarks vs. NativeRAG/HippoRAG/IRCoT on HotpotQA / 2Wiki / MuSiQue (summarized from paper tables)
+- Glossary expansion tying KAG term to Liang et al. (2025) instantiation
+
+## [2026-04-19] query | AGAFA ontology + KAG + ASP pipeline suitability (filed)
+
+Pages consulted:
+- `wiki/products/agafa-framework.md`
+- `wiki/concepts/knowledge-augmented-generation-kag.md`
+- `wiki/concepts/answer-set-programming-asp.md`
+- `wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md`
+
+Output filed: yes — `wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md`
