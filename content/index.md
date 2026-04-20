@@ -17,9 +17,9 @@ Each entry follows this format:
 
 | Page | Summary | Updated |
 |---|---|---|
-| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-19 |
-| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-19 |
-| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-04-19 |
+| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-20 |
+| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-20 |
+| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-04-20 |
 
 ---
 
@@ -37,6 +37,8 @@ Each entry follows this format:
 - [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]] — Survey of ASP applications across AI, sciences, and industry with solver and challenge discussion | source | 2026-04-19
 - [[how-ontologies-have-supported-digital-forensics-fsr-2024]] — SLR of 29 DF ontologies across six questions (methods, taxonomy, feasibility, evaluation, phases, subareas) with practitioner recommendations | source | 2026-04-19
 - [[kag-boosting-llms-professional-domains-2025]] — WWW ’25 KAG framework: semantic-graph indexing, logical-form QA, hybrid retrieval; OpenSPG reference stack | source | 2026-04-19
+- [[digital-forensics-validation-draft-guidance-fsr-g-218-2015]] — UK-focused FSR draft guidance for DF method validation lifecycle, from end-user requirements through validation closure and post-validation governance | source | 2026-04-20
+- [[explainable-artificial-intelligence-for-digital-forensics-2022]] — Perspective on XAI in DF, mapping explainability maturity levels and supervised investigative-support deployment patterns | source | 2026-04-20
 
 ---
 
@@ -84,6 +86,8 @@ Each entry follows this format:
 - [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-04-17
 - [[anti-forensics-in-digital-investigations]] — Adversarial tactics that obstruct evidence discovery, integrity, or interpretation in DF | concept | 2026-04-17
 - [[quality-standards-and-accreditation-in-digital-forensics]] — Quality-system concept linking ISO/IEC 17025-style controls to method validity, competence, and assurance | concept | 2026-04-17
+- [[method-validation-in-digital-forensics]] — End-to-end DF method validation concept covering fit-for-purpose evidence, verification boundaries, and change-triggered revalidation | concept | 2026-04-20
+- [[explainable-ai-in-digital-forensics]] — XAI concept page covering explainability maturity levels, human-on-the-loop oversight, and court-facing communication constraints | concept | 2026-04-20
 
 ---
 
@@ -107,6 +111,9 @@ Each entry follows this format:
 - [[agafa-use-cases-under-acpo-and-quality-standards]] — Use-case-by-use-case fit assessment for AGAFA under ACPO controls and ISO/IEC 17025-style quality expectations | analysis | 2026-04-17
 - [[agafa-go-no-go-deployment-gate]] — Green/amber/red deployment readiness gate for AGAFA under ACPO and DF quality-system controls | analysis | 2026-04-17
 - [[agafa-ontology-kag-asp-pipeline-suitability]] — Fit assessment for ontology-grounded KAG retrieval with ASP verification in AGAFA | analysis | 2026-04-19
+- [[agafa-implications-from-fsr-g-218-method-validation-guidance]] — Implication map for applying FSR-G-218 method-validation expectations to AGAFA design, validation, and deployment governance | analysis | 2026-04-20
+- [[agafa-fsr-g-218-pilot-implementation-checklist]] — One-page pilot checklist translating FSR-G-218 method-validation requirements into AGAFA implementation gates and evidence tasks | analysis | 2026-04-20
+- [[agafa-implications-from-xai-and-method-validation-guidance]] — Consolidated implications for AGAFA from XAI adoption framing and DF method-validation governance requirements | analysis | 2026-04-20
 
 ---
 

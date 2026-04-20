@@ -2,8 +2,8 @@
 title: Overview
 type: overview
 created: 2026-04-07
-updated: 2026-04-19
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf]
+updated: 2026-04-20
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,11 +15,11 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki now includes ten ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, ontology-engineering (including an SLR of DF ontologies), rule/ontology integration, ASP foundations, an ASP application survey, and a reference KAG architecture paper for explainable digital forensics.
+This wiki now includes twelve ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including an SLR of DF ontologies), rule/ontology integration, ASP foundations, an ASP application survey, and a reference KAG architecture paper for explainable digital forensics.
 
-**Source count:** 10
-**Wiki pages:** 41 (index, log, overview, glossary, bibliography, 10 sources, 1 product, 16 concepts, 1 style rule, 8 analyses)
-**Last ingest:** 2026-04-19 — KAG: Boosting LLMs in Professional Domains (WWW Companion ’25)
+**Source count:** 12
+**Wiki pages:** 45 (index, log, overview, glossary, bibliography, 12 sources, 1 product, 18 concepts, 1 style rule, 8 analyses)
+**Last ingest:** 2026-04-20 — Explainable Artificial Intelligence for Digital Forensics (2022)
 **Last lint:** —
 
 ---
@@ -33,6 +33,8 @@ Current coverage includes:
 - ACPO digital evidence principles as a UK-focused procedural baseline
 - Proactive/reactive DF process modeling for live evidence capture and post-incident handoff
 - Quality standards and accreditation practice (ISO/IEC 17025-oriented) for DF reliability assurance
+- Method-validation lifecycle design for digital forensics (end-user requirements, risk-based validation strategy, closure artifacts, and post-validation controls)
+- Explainability maturity framing for DF AI (opaque, interpretable, comprehensible, truly explainable) and user-centric communication expectations
 - Ontology-engineering patterns for semantic evidence integration and automation, plus a systematic map of DF ontology practices (29 ontologies, six research dimensions)
 - Rules-and-ontologies integration patterns for explicit derivation workflows
 - ASP foundations including stable model semantics and generate-define-test modeling, plus an applications-level survey of deployed and research uses
@@ -51,10 +53,12 @@ Current coverage includes:
 - **Procedural governance baseline:** ACPO principles provide UK-focused process guardrails for evidence handling and reporting.
 - **Proactive-to-reactive handoff:** Event-triggered live evidence workflows can feed structured post-mortem investigation.
 - **Quality-system discipline:** Method validation, competency evidence, and audit/proficiency loops are core to dependable DF output.
+- **Method-over-tool assurance:** Reliability claims should attach to the full forensic method, with explicit limits and evidence, not to isolated tool behavior.
 - **Semantic integration focus:** Ontology engineering and Semantic Web standards enable machine-interpretable evidence fusion and reasoning.
 - **Reasoning design focus:** Query-language and inference-pattern choices materially affect expressiveness and evaluation behavior.
 - **Scope-bounded investigation design:** Investigation behavior is constrained by legal authority and proportionality principles.
 - **Sensitive-domain handling discipline:** Sensitive case examples are documented only at high level, with no operational detail.
+- **Human-on-the-loop deployment orientation:** AI support is treated as supervised acceleration of triage/reporting, not autonomous evidential decision-making.
 
 ---
 

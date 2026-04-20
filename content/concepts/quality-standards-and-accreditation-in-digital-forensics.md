@@ -2,8 +2,8 @@
 title: Quality Standards and Accreditation in Digital Forensics
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [Quality standards for digital forensics.pdf]
+updated: 2026-04-20
+sources: [Quality standards for digital forensics.pdf, validation_guidance.pdf]
 tags: [concept, digital-forensics, quality-assurance, accreditation, iso-17025, validation, uk-focused]
 ---
 
@@ -19,6 +19,13 @@ Quality standards in digital forensics are structured requirements (for example 
 - **Technical records:** preserve notes and records so work is traceable, reviewable, and reproducible.
 - **Ongoing assurance:** run audits, proficiency testing, non-conformance handling, and improvement cycles.
 - **Governance layer:** include management accountability, supplier controls, and environmental/security controls.
+
+## Validation governance detail (FSR-G-218 emphasis)
+- Validation begins from end-user requirements and explicit acceptance criteria, not tool availability.
+- Risk assessment should prioritize realistic justice impacts (wrongful conviction, wrongful acquittal, and investigation delay).
+- Verification is acceptable for adopted/adapted methods only when external validation evidence is critically reviewed as relevant and robust.
+- Closure should include a validation report plus a statement/certificate of validation completion before routine deployment.
+- Post-validation controls should include update impact review, acceptance testing, and change-triggered partial/full revalidation where necessary.
 
 ## Why it matters
 - Reduces risk of undetected error, irreproducible findings, and ambiguous reporting.
@@ -40,3 +47,4 @@ Quality standards in digital forensics are structured requirements (for example 
 - [[legal-constraints-in-digital-forensics]]
 - [[audit-trail-and-reproducibility-in-df]]
 - [[acpo-four-principles-of-digital-evidence]]
+- [[method-validation-in-digital-forensics]]

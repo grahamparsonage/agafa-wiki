@@ -2,8 +2,8 @@
 title: Legal Constraints in Digital Forensics
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf]
+updated: 2026-04-20
+sources: [AGAFA.pdf, ACPO.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, validation_guidance.pdf]
 tags: [digital-forensics, legal, compliance, admissibility, auditability, uk-focused]
 ---
 
@@ -19,6 +19,7 @@ Legal constraints in digital forensics are jurisdiction-specific requirements go
 - **Reproducibility and auditability**: Maintain records so a third party can review/recreate outcomes.
 - **Competence and accreditation context**: Tool/process reliability and calibration evidence matter.
 - **Court-facing explainability**: Findings must be understandable and support expert evidence standards.
+- **Validation status disclosure**: When methods are outside validated/accredited scope, limits and status should be explicitly disclosed to customers and the court.
 
 ## Why this matters for AI-enabled DF
 AI systems used in DF must provide not only outputs, but also a verifiable reasoning trail and bounded behavior aligned to legal scope.
@@ -42,3 +43,4 @@ AGAFA addresses constraints by combining ontology-defined boundaries with ASP ru
 - [[proactive-and-reactive-digital-forensics-process]]
 - [[anti-forensics-in-digital-investigations]]
 - [[quality-standards-and-accreditation-in-digital-forensics]]
+- [[method-validation-in-digital-forensics]]

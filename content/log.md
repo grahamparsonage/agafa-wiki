@@ -311,3 +311,80 @@ Pages consulted:
 - `wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md`
 
 Output filed: yes — `wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md`
+
+## [2026-04-20] ingest | Digital Forensics Method Validation Draft Guidance (FSR-G-218)
+
+Source: Forensic Science Regulator (2015), second consultation draft — raw `validation_guidance.pdf`
+
+Pages created:
+- `wiki/sources/digital-forensics-validation-draft-guidance-fsr-g-218-2015.md`
+- `wiki/concepts/method-validation-in-digital-forensics.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md`
+- `wiki/concepts/audit-trail-and-reproducibility-in-df.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+
+Key additions:
+- Explicit method-validation lifecycle framing (end-user requirements, risk assessment, strategy/plan, test-data control, evaluation, closure, and post-validation management)
+- New concept page separating method-level validation/verification governance from broader quality-system discussions
+- Terminology additions for end-user requirement, fit for purpose, developmental validation, and accreditation-context verification
+- Source-level caveat recorded that FSR-G-218 is a consultation draft and not itself a binding standard
+
+## [2026-04-20] query | implications of FSR-G-218 guidance for AGAFA
+
+Pages consulted:
+- `wiki/products/agafa-framework.md`
+- `wiki/sources/agafa.md`
+- `wiki/sources/digital-forensics-validation-draft-guidance-fsr-g-218-2015.md`
+- `wiki/concepts/method-validation-in-digital-forensics.md`
+- `wiki/analyses/agafa-alignment-with-acpo-principles.md`
+- `wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md`
+- `wiki/analyses/agafa-go-no-go-deployment-gate.md`
+
+Output filed: yes — `wiki/analyses/agafa-implications-from-fsr-g-218-method-validation-guidance.md`
+
+## [2026-04-20] query | create AGAFA FSR-G-218 pilot implementation checklist
+
+Pages consulted:
+- `wiki/analyses/agafa-implications-from-fsr-g-218-method-validation-guidance.md`
+- `wiki/analyses/agafa-go-no-go-deployment-gate.md`
+- `wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md`
+- `wiki/concepts/method-validation-in-digital-forensics.md`
+- `wiki/sources/digital-forensics-validation-draft-guidance-fsr-g-218-2015.md`
+
+Output filed: yes — `wiki/analyses/agafa-fsr-g-218-pilot-implementation-checklist.md`
+
+## [2026-04-20] ingest | Explainable Artificial Intelligence for Digital Forensics
+
+Source: Hall, Sakzad, & Choo (2022), *WIREs Forensic Science* 4(2):e1434 — raw `Explainable artificial intelligence for digital forensics.pdf`
+
+Pages created:
+- `wiki/sources/explainable-artificial-intelligence-for-digital-forensics-2022.md`
+- `wiki/concepts/explainable-ai-in-digital-forensics.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/concepts/neuro-symbolic-ai.md`
+
+Key additions:
+- Explainability maturity framing for DF AI (opaque, interpretable, comprehensible, truly explainable)
+- Human-on-the-loop deployment framing and user-centric explanation requirements for mixed technical/legal audiences
+- Risk notes on adversarial ML, bias in training data, and deepfake robustness concerns for AI-assisted DF
+
+## [2026-04-20] query | implications for AGAFA from XAI and validation guidance
+
+Pages consulted:
+- `wiki/analyses/agafa-implications-from-fsr-g-218-method-validation-guidance.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/concepts/explainable-ai-in-digital-forensics.md`
+- `wiki/sources/explainable-artificial-intelligence-for-digital-forensics-2022.md`
+
+Output filed: yes — `wiki/analyses/agafa-implications-from-xai-and-method-validation-guidance.md`

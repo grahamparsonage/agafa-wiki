@@ -2,8 +2,8 @@
 title: Audit Trail and Reproducibility in Digital Forensics
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [ACPO.pdf, Quality standards for digital forensics.pdf]
+updated: 2026-04-20
+sources: [ACPO.pdf, Quality standards for digital forensics.pdf, validation_guidance.pdf]
 tags: [concept, uk-focused, digital-forensics, auditability, reproducibility]
 ---
 
@@ -27,6 +27,7 @@ Reproducibility strengthens evidential trust, supports disclosure obligations, a
 - Tool/process steps
 - Communication and decision records
 - Reporting assumptions and limitations
+- Validation strategy/plan, test datasets, expected versus observed outcomes, and closure records
 
 ## Scope note
 This page captures UK-focused guidance context from ACPO; equivalent requirements differ across jurisdictions.
@@ -37,3 +38,4 @@ This page captures UK-focused guidance context from ACPO; equivalent requirement
 - [[legal-constraints-in-digital-forensics]]
 - [[agafa-framework]]
 - [[quality-standards-and-accreditation-in-digital-forensics]]
+- [[method-validation-in-digital-forensics]]
