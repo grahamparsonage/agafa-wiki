@@ -22,7 +22,7 @@ Quality standards in digital forensics are structured requirements (for example 
 
 ## Validation governance detail (FSR-G-218 emphasis)
 - Validation begins from end-user requirements and explicit acceptance criteria, not tool availability.
-- Risk assessment should prioritize realistic justice impacts (wrongful conviction, wrongful acquittal, and investigation delay).
+- Risk assessment should prioritise realistic justice impacts (wrongful conviction, wrongful acquittal, and investigation delay).
 - Verification is acceptable for adopted/adapted methods only when external validation evidence is critically reviewed as relevant and robust.
 - Closure should include a validation report plus a statement/certificate of validation completion before routine deployment.
 - Post-validation controls should include update impact review, acceptance testing, and change-triggered partial/full revalidation where necessary.

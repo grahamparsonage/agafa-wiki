@@ -16,7 +16,7 @@ FSR-G-218 shifts AGAFA from a technically plausible neuro-symbolic architecture 
 ## Practical implications for AGAFA
 
 ### 1) Validate the end-to-end method, not only components
-- AGAFA's MM-LLM, ontology grounding, ASP checks, analyst interpretation, and reporting behavior should be validated as one method.
+- AGAFA's MM-LLM, ontology grounding, ASP checks, analyst interpretation, and reporting behaviour should be validated as one method.
 - Tool-level checks (model output spot checks, parser tests, rule-engine pass rates) are necessary but not sufficient alone.
 
 ### 2) Define end-user requirements before validation execution

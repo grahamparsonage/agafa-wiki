@@ -388,3 +388,23 @@ Pages consulted:
 - `wiki/sources/explainable-artificial-intelligence-for-digital-forensics-2022.md`
 
 Output filed: yes — `wiki/analyses/agafa-implications-from-xai-and-method-validation-guidance.md`
+
+## [2026-04-20] query | apply UK spelling conventions across wiki
+
+Pages consulted:
+- `wiki/index.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/style/forensic-reporting-fact-vs-opinion.md`
+- `wiki/analyses/agafa-fsr-g-218-pilot-implementation-checklist.md`
+- `wiki/concepts/neuro-symbolic-ai.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/analyses/agafa-implications-from-fsr-g-218-method-validation-guidance.md`
+- `wiki/analyses/acpo-vs-proactive-reactive-process-alignment.md`
+- `wiki/concepts/semantic-web-querying-and-inference-patterns.md`
+- `wiki/concepts/rules-and-ontologies-integration.md`
+
+Output filed: no

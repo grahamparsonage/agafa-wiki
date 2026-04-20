@@ -29,11 +29,11 @@ AGAFA uses MM-LLM inference in the neural stage and ontology-derived ASP validat
 
 ## Common misconceptions
 - Neuro-symbolic is not symbolic-only AI.
-- It does not guarantee correctness by itself; quality depends on both model behavior and rule/ontology quality.
+- It does not guarantee correctness by itself; quality depends on both model behaviour and rule/ontology quality.
 - It is not always faster to implement than end-to-end neural approaches.
 
 ## In ontology-driven DF automation
-Ontology engineering literature reinforces that symbolic quality is not just about rules, but also about semantic coverage, interoperability, and machine-interpretable evidence modeling.
+Ontology engineering literature reinforces that symbolic quality is not just about rules, but also about semantic coverage, interoperability, and machine-interpretable evidence modelling.
 
 ## Related pages
 - [[agafa-framework]]

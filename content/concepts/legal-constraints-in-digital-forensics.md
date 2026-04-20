@@ -22,7 +22,7 @@ Legal constraints in digital forensics are jurisdiction-specific requirements go
 - **Validation status disclosure**: When methods are outside validated/accredited scope, limits and status should be explicitly disclosed to customers and the court.
 
 ## Why this matters for AI-enabled DF
-AI systems used in DF must provide not only outputs, but also a verifiable reasoning trail and bounded behavior aligned to legal scope.
+AI systems used in DF must provide not only outputs, but also a verifiable reasoning trail and bounded behaviour aligned to legal scope.
 
 ## In AGAFA
 AGAFA addresses constraints by combining ontology-defined boundaries with ASP rule checks over model inferences, then producing reportable, auditable outputs.

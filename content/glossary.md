@@ -77,7 +77,7 @@ Each entry follows this format:
 - See also: [[neuro-symbolic-ai]]
 
 **Post-hoc Explainability** *(canonical form)*
-: Explainability derived after model execution by analyzing behavior or outputs.
+: Explainability derived after model execution by analysing behaviour or outputs.
 - Preferred: `post-hoc explainability` / Avoid: `after-the-fact AI logic`
 - See also: [[neuro-symbolic-ai]]
 
@@ -131,9 +131,9 @@ Each entry follows this format:
 - Preferred: `semantic web standards` / Avoid: `ad hoc schema layer`
 - See also: [[semantic-web-standards-for-digital-forensics-automation]]
 
-**Ontology Standardization (DF)** *(canonical form)*
-: Interoperability effort to harmonize fragmented custom forensic ontologies across tools and organizations.
-- Preferred: `ontology standardization` / Avoid: `single-tool ontology`
+**Ontology Standardisation (DF)** *(canonical form)*
+: Interoperability effort to harmonise fragmented custom forensic ontologies across tools and organisations.
+- Preferred: `ontology standardisation` / Avoid: `single-tool ontology`
 - See also: [[digital-forensic-ontology-standardization]]
 
 **Rules-Ontologies Integration** *(canonical form)*
@@ -147,12 +147,12 @@ Each entry follows this format:
 - See also: [[semantic-web-querying-and-inference-patterns]]
 
 **Generate-Define-Test (ASP pattern)** *(canonical form)*
-: Common ASP modeling organization where rules generate candidates, auxiliary rules define derived predicates, and constraints test/filter invalid candidates.
+: Common ASP modelling organisation where rules generate candidates, auxiliary rules define derived predicates, and constraints test/filter invalid candidates.
 - Preferred: `generate-define-test` / Avoid: `single-phase ASP encoding`
 - See also: [[answer-set-programming-asp]]
 
 **ASP solver (exemplar systems)** *(canonical form)*
-: Major answer-set solvers frequently cited in ASP application literature include clasp (Potassco), DLV, and Smodels; the right choice depends on language fragment, grounding behavior, and performance profile.
+: Major answer-set solvers frequently cited in ASP application literature include clasp (Potassco), DLV, and Smodels; the right choice depends on language fragment, grounding behaviour, and performance profile.
 - Preferred: list explicitly (`clasp`, `DLV`, `Smodels`) when comparing tooling / Avoid: `ASP engine` (ambiguous with unrelated rule engines)
 - See also: [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]]
 
@@ -235,6 +235,7 @@ Each entry follows this format:
 | Acronym introduction | Define on first use, then use acronym consistently. | `Answer Set Programming (ASP)` then `ASP` |
 | Framework naming | Treat AGAFA as product/framework in this wiki. | `AGAFA framework` |
 | Sensitive scenarios | Keep sensitive case examples high-level and non-operational. | `A sensitive-domain use case is summarized at a high level.` |
+| Spelling convention | Use UK English spelling by default unless quoting source wording/titles. | `organisation`, `behaviour`, `prioritise`, `standardisation` |
 | Legal language precision | Use `legal constraints` / `admissibility` precisely; avoid overclaiming legal certainty. | `supports admissibility-focused workflows` |
 
 ---
@@ -250,6 +251,12 @@ Terms that have been replaced, renamed, or should not be used:
 | graph RAG | KAG (or specify exact method) | Avoid ambiguous shorthand |
 | court-ready AI | admissibility-focused, auditable workflow | More precise, less promotional |
 | automated CSAM detection details | high-level sensitive-domain summary | Safety and scope discipline |
+| organization / organizations | organisation / organisations | UK default spelling |
+| behavior | behaviour | UK default spelling |
+| standardization | standardisation | UK default spelling |
+| modeling | modelling | UK default spelling |
+| prioritize | prioritise | UK default spelling |
+| catalog | catalogue | UK default spelling |
 
 ---
 
@@ -268,4 +275,4 @@ Terms that differ between audiences, teams, or locales:
 ## Related Pages
 
 - [[overview]] — big-picture synthesis
-- [[index]] — master catalog
+- [[index]] — master catalogue

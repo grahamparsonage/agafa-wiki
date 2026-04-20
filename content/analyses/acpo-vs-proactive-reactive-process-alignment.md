@@ -25,7 +25,7 @@ Comparison of ACPO principle-oriented evidence governance with the proactive/rea
 | Auditability/reproducibility | Core principle via full audit trail and third-party reproducibility | Preliminary and final reporting built into process | Enforce standardized records from proactive trigger through final report |
 | Accountability | Person-in-charge principle is explicit | Decision-to-escalate remains human-governed but not deeply specified | Define formal ownership/RACI for proactive tuning and reactive takeover |
 | Automation scope | Not automation-centric; principle-centric | Strong automation target in proactive phases | Allow automation only where forensic soundness and reviewability are preserved |
-| Anti-forensics posture | Indirectly addressed via integrity and process discipline | Direct motivator for proactive collection and triggering | Prioritize proactive controls for volatile/anti-forensics-prone evidence |
+| Anti-forensics posture | Indirectly addressed via integrity and process discipline | Direct motivator for proactive collection and triggering | Prioritise proactive controls for volatile/anti-forensics-prone evidence |
 
 ## Key complementarities
 - ACPO strengthens the legal defensibility of proactive evidence pipelines.

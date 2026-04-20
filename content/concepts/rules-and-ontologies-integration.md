@@ -7,7 +7,7 @@ sources: [reasoning with rules and ontologies..pdf]
 tags: [concept, semantic-web, rules, ontologies, reasoning]
 ---
 
-Rules-and-ontologies integration is the joint use of rule formalisms and ontology formalisms so systems can combine rich domain modeling with explicit inference.
+Rules-and-ontologies integration is the joint use of rule formalisms and ontology formalisms so systems can combine rich domain modelling with explicit inference.
 
 ## Definition
 Ontologies provide structured conceptual models and constraints, while rules capture derivation logic and procedural inference patterns over those models.
@@ -20,7 +20,7 @@ Ontologies provide structured conceptual models and constraints, while rules cap
 
 ## Main trade-offs
 - More expressive combinations can increase computational complexity.
-- Semantic mismatches can arise across modeling assumptions.
+- Semantic mismatches can arise across modelling assumptions.
 - Tool interoperability can be limited when rule languages differ.
 
 ## In DF-oriented systems

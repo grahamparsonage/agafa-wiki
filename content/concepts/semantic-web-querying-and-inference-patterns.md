@@ -17,11 +17,11 @@ Semantic Web querying and inference patterns describe recurring ways that RDF/on
 
 ## Why it matters
 - Clarifies how query language features map to investigative and analytical tasks.
-- Makes reasoning behavior more predictable and testable.
+- Makes reasoning behaviour more predictable and testable.
 - Helps choose suitable languages and evaluation methods for specific workloads.
 
 ## Practical implications
-- Query language choice affects expressiveness and runtime behavior.
+- Query language choice affects expressiveness and runtime behaviour.
 - Closure and recursion support are critical for transitive or derived relationships.
 - Evaluation strategy influences reproducibility and performance at scale.
 

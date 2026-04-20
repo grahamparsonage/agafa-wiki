@@ -1,6 +1,6 @@
 # Wiki Index
 
-Master catalog of all pages with short summaries for navigation. Updated on every ingest.
+Master catalogue of all pages with short summaries for navigation. Updated on every ingest.
 
 ---
 

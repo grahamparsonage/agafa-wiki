@@ -9,7 +9,7 @@ tags: [bibliography, references, sources]
 
 Master bibliography of all ingested sources in this wiki. Keep this page updated whenever a new source is ingested.
 
-## Entries (alphabetical by first author/organization)
+## Entries (alphabetical by first author/organisation)
 
 - **ACPO (2011)** — Association of Chief Police Officers (ACPO). (2011). *Good Practice Guide for Digital Evidence* (Version 5).  
   - Source page: [[acpo-good-practice-guide-digital-evidence-v5]]  

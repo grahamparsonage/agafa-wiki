@@ -19,6 +19,7 @@ Always distinguish:
 - State the evidential basis for each opinion.
 - Describe limitations and uncertainty clearly.
 - Use plain language suitable for non-specialist readers where possible.
+- Use UK English spelling by default (for example `organisation`, `behaviour`, `prioritise`, `standardisation`) unless preserving quoted source wording.
 
 ## Do
 - "Recovered file metadata shows timestamp X." (fact)

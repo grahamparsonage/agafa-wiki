@@ -37,7 +37,7 @@ One-page execution checklist for running an AGAFA pilot aligned with FSR-G-218 m
 
 ## 4) Validation closure and pilot readiness (pilot gate)
 - [ ] Validation report states what is validated and what is not validated.
-- [ ] Validation completion statement/certificate is issued by the implementing organization.
+- [ ] Validation completion statement/certificate is issued by the implementing organisation.
 - [ ] Pilot users are trained and competence evidence is current.
 - [ ] Report templates enforce fact/opinion separation and mandatory limitations.
 - [ ] Go/No-Go decision is recorded using the deployment gate criteria.

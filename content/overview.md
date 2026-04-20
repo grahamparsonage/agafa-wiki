@@ -31,13 +31,13 @@ This knowledge base currently focuses on AI-assisted digital forensics documenta
 Current coverage includes:
 - The AGAFA framework as a product-level reference
 - ACPO digital evidence principles as a UK-focused procedural baseline
-- Proactive/reactive DF process modeling for live evidence capture and post-incident handoff
+- Proactive/reactive DF process modelling for live evidence capture and post-incident handoff
 - Quality standards and accreditation practice (ISO/IEC 17025-oriented) for DF reliability assurance
 - Method-validation lifecycle design for digital forensics (end-user requirements, risk-based validation strategy, closure artifacts, and post-validation controls)
 - Explainability maturity framing for DF AI (opaque, interpretable, comprehensible, truly explainable) and user-centric communication expectations
 - Ontology-engineering patterns for semantic evidence integration and automation, plus a systematic map of DF ontology practices (29 ontologies, six research dimensions)
 - Rules-and-ontologies integration patterns for explicit derivation workflows
-- ASP foundations including stable model semantics and generate-define-test modeling, plus an applications-level survey of deployed and research uses
+- ASP foundations including stable model semantics and generate-define-test modelling, plus an applications-level survey of deployed and research uses
 - Neuro-symbolic architecture patterns for forensic workflows
 - RAG/KAG knowledge-grounding approaches, including relation-first semantic-graph indexing and logical-form retrieval as defined in Liang et al. (2025)
 - ASP-based rule validation
@@ -49,14 +49,14 @@ Current coverage includes:
 
 - **Explainability over black-box automation:** AI outputs are paired with explicit knowledge structures and validation logic.
 - **Hybrid architecture:** MM-LLM inference is combined with symbolic ontologies and formal rule checks.
-- **Auditability and reproducibility:** Workflows prioritize contemporaneous records and third-party reviewability.
+- **Auditability and reproducibility:** Workflows prioritise contemporaneous records and third-party reviewability.
 - **Procedural governance baseline:** ACPO principles provide UK-focused process guardrails for evidence handling and reporting.
 - **Proactive-to-reactive handoff:** Event-triggered live evidence workflows can feed structured post-mortem investigation.
 - **Quality-system discipline:** Method validation, competency evidence, and audit/proficiency loops are core to dependable DF output.
-- **Method-over-tool assurance:** Reliability claims should attach to the full forensic method, with explicit limits and evidence, not to isolated tool behavior.
+- **Method-over-tool assurance:** Reliability claims should attach to the full forensic method, with explicit limits and evidence, not to isolated tool behaviour.
 - **Semantic integration focus:** Ontology engineering and Semantic Web standards enable machine-interpretable evidence fusion and reasoning.
-- **Reasoning design focus:** Query-language and inference-pattern choices materially affect expressiveness and evaluation behavior.
-- **Scope-bounded investigation design:** Investigation behavior is constrained by legal authority and proportionality principles.
+- **Reasoning design focus:** Query-language and inference-pattern choices materially affect expressiveness and evaluation behaviour.
+- **Scope-bounded investigation design:** Investigation behaviour is constrained by legal authority and proportionality principles.
 - **Sensitive-domain handling discipline:** Sensitive case examples are documented only at high level, with no operational detail.
 - **Human-on-the-loop deployment orientation:** AI support is treated as supervised acceleration of triage/reporting, not autonomous evidential decision-making.
 
@@ -66,7 +66,7 @@ Current coverage includes:
 
 - UK-focused framing is now applied. Which non-UK jurisdiction should be prioritized next for comparison/adaptation?
 - Should the wiki include a dedicated page for forensic workflow standards (for example, ISO 17025, evidence handling principles) separate from legal constraints?
-- Which audience should be prioritized next for documentation outputs: investigators, legal reviewers, or policy/oversight stakeholders?
+- Which audience should be prioritised next for documentation outputs: investigators, legal reviewers, or policy/oversight stakeholders?
 - Do you want a dedicated analysis comparing ontology stacks (CASE/UCO/DFAX/ParFor/WSFO) for implementation readiness?
 
 ---
@@ -79,5 +79,5 @@ Current coverage includes:
 
 ## Related Pages
 
-- [[index]] — full catalog of all wiki pages
+- [[index]] — full catalogue of all wiki pages
 - [[glossary]] — terminology and style conventions

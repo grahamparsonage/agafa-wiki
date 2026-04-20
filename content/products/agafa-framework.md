@@ -33,7 +33,7 @@ AGAFA (Automated Generative AI-Driven Forensic Analysis) is proposed to address 
 - Principle 4 requires explicit governance and accountable case leadership outside the model itself.
 
 ## Sensitive-use handling
-Case examples are summarized at a high level only. No procedural or operational details are retained beyond documentation context.
+Case examples are summarised at a high level only. No procedural or operational details are retained beyond documentation context.
 
 ## Related pages
 - [[agafa]]
