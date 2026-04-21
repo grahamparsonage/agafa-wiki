@@ -44,6 +44,7 @@ Each entry follows this format:
 - [[machine-learning-forensics-state-of-the-art-smart-environments]] — State-of-the-art review of machine-learning use in smart-environment digital forensic investigations, with method families, opportunities, and constraints. | source | 2026-04-21
 - [[ai-enhanced-digital-forensics-automated-techniques-efficient-investigation-evidence-collection]] — Survey-style paper describing AI-enabled automation opportunities for faster evidence collection and investigative workflow acceleration. | source | 2026-04-21
 - [[digital-forensics-and-strong-ai-structured-literature-review]] — Structured review assessing how strong-AI framing appears in digital forensics literature and where evidence remains limited. | source | 2026-04-21
+- [[legal-and-policy-framework-for-digital-forensics-2022]] — UK-focused legal-policy briefing mapping multi-statute governance for digital and social-media evidence across collection, disclosure, and court presentation | source | 2026-04-21
 
 ---
 
@@ -59,7 +60,7 @@ Each entry follows this format:
 
 *One entry per product or tool.*
 
-- [[agafa-framework]] — Neuro-symbolic digital forensics framework combining MM-LLM inference with ontology and ASP validation | product | 2026-04-17
+- [[agafa-framework]] — Neuro-symbolic digital forensics framework combining MM-LLM inference with ontology and ASP validation | product | 2026-04-21
 
 ---
 
@@ -114,13 +115,14 @@ Each entry follows this format:
 - [[acpo-vs-proactive-reactive-process-alignment]] — Side-by-side alignment of ACPO governance principles with proactive/reactive DF process design | analysis | 2026-04-17
 - [[agafa-role-in-proactive-reactive-df-process]] — Maps AGAFA to proactive/reactive phases as an analysis/validation component with governance dependencies | analysis | 2026-04-17
 - [[agafa-use-cases-under-acpo-and-quality-standards]] — Use-case-by-use-case fit assessment for AGAFA under ACPO controls and ISO/IEC 17025-style quality expectations | analysis | 2026-04-17
-- [[agafa-go-no-go-deployment-gate]] — Green/amber/red deployment readiness gate for AGAFA under ACPO and DF quality-system controls | analysis | 2026-04-17
+- [[agafa-go-no-go-deployment-gate]] — Green/amber/red deployment readiness gate for AGAFA under ACPO, UK legal-policy lifecycle, and DF quality-system controls | analysis | 2026-04-21
 - [[agafa-ontology-kag-asp-pipeline-suitability]] — Fit assessment for ontology-grounded KAG retrieval with ASP verification in AGAFA | analysis | 2026-04-19
 - [[agafa-implications-from-fsr-g-218-method-validation-guidance]] — Implication map for applying FSR-G-218 method-validation expectations to AGAFA design, validation, and deployment governance | analysis | 2026-04-20
 - [[agafa-fsr-g-218-pilot-implementation-checklist]] — One-page pilot checklist translating FSR-G-218 method-validation requirements into AGAFA implementation gates and evidence tasks | analysis | 2026-04-20
 - [[agafa-implications-from-xai-and-method-validation-guidance]] — Consolidated implications for AGAFA from XAI adoption framing and DF method-validation governance requirements | analysis | 2026-04-20
 - [[five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications]] — Cross-source evidence map of methods, dataset maturity, limitations, and deployment implications for AGAFA from the latest five-paper ingest | analysis | 2026-04-21
 - [[uk-compliance-checklist-for-agafa-case-deployment]] — One-page UK-focused operational checklist for lawful authority, validation, data protection, auditability, and court-facing reporting readiness in AGAFA case deployment | analysis | 2026-04-21
+- [[agafa-executive-summary-implications-from-latest-five-papers]] — One-page executive brief of the main AGAFA deployment implications from the latest five papers, with UK-focused governance emphasis | analysis | 2026-04-21
 
 ---
 

@@ -2,8 +2,8 @@
 title: AGAFA Framework
 type: product
 created: 2026-04-17
-updated: 2026-04-19
-sources: [AGAFA.pdf, ACPO.pdf]
+updated: 2026-04-21
+sources: [AGAFA.pdf, ACPO.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf]
 tags: [digital-forensics, xai, neuro-symbolic, llm, ontology, asp]
 ---
 
@@ -32,6 +32,12 @@ AGAFA (Automated Generative AI-Driven Forensic Analysis) is proposed to address 
 - Principle 3 is supported by structured validation and traceable reasoning outputs.
 - Principle 4 requires explicit governance and accountable case leadership outside the model itself.
 
+## UK legal-policy implementation requirements
+- AGAFA deployment should be treated as operating inside a layered legal-policy framework, not a single-rule compliance task.
+- Case pipelines should preserve legal traceability from authority/scope definition through extraction, analysis, disclosure, and court-facing reporting.
+- Privacy and proportionality controls should be explicit at each lifecycle stage, including dataset preparation and review workflows.
+- Legislative/procedural updates affecting digital evidence handling should trigger governance review and, where relevant, method revalidation.
+
 ## Sensitive-use handling
 Case examples are summarised at a high level only. No procedural or operational details are retained beyond documentation context.
 
@@ -45,3 +51,4 @@ Case examples are summarised at a high level only. No procedural or operational 
 - [[answer-set-programming-asp]]
 - [[acpo-four-principles-of-digital-evidence]]
 - [[agafa-alignment-with-acpo-principles]]
+- [[legal-and-policy-framework-for-digital-forensics-2022]]

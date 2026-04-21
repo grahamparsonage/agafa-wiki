@@ -2,8 +2,8 @@
 title: Legal Constraints in Digital Forensics
 type: concept
 created: 2026-04-17
-updated: 2026-04-20
-sources: [AGAFA.pdf, ACPO.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, validation_guidance.pdf]
+updated: 2026-04-21
+sources: [AGAFA.pdf, ACPO.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf]
 tags: [digital-forensics, legal, compliance, admissibility, auditability, uk-focused]
 ---
 
@@ -34,6 +34,12 @@ AGAFA addresses constraints by combining ontology-defined boundaries with ASP ru
 - **Accountability:** the person in charge is responsible for legal and principle adherence.
 - **Proportionality:** scope and seizure decisions should be justified, documented, and proportionate to investigative need.
 
+## UK legal-policy layering (2022 practitioner briefing context)
+- Digital-evidence governance is distributed across multiple statutes and procedural regimes rather than one single law.
+- Legal duties span the full lifecycle: identify, access, seize, extract, preserve, examine, analyse, disclose, and present.
+- Privacy is a cross-cutting constraint across collection, review, and disclosure stages.
+- Legislative updates affecting device extraction powers should be tracked as part of ongoing governance maintenance.
+
 ## Related pages
 - [[agafa-framework]]
 - [[agafa]]
@@ -44,3 +50,4 @@ AGAFA addresses constraints by combining ontology-defined boundaries with ASP ru
 - [[anti-forensics-in-digital-investigations]]
 - [[quality-standards-and-accreditation-in-digital-forensics]]
 - [[method-validation-in-digital-forensics]]
+- [[legal-and-policy-framework-for-digital-forensics-2022]]

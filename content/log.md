@@ -462,3 +462,41 @@ Pages consulted:
 - `wiki/analyses/agafa-go-no-go-deployment-gate.md`
 
 Output filed: yes — `wiki/analyses/uk-compliance-checklist-for-agafa-case-deployment.md`
+
+## [2026-04-21] query | executive summary of AGAFA implications from latest five papers
+
+Pages consulted:
+- `wiki/analyses/five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications.md`
+- `wiki/analyses/uk-compliance-checklist-for-agafa-case-deployment.md`
+- `wiki/analyses/agafa-implications-from-xai-and-method-validation-guidance.md`
+
+Output filed: yes — `wiki/analyses/agafa-executive-summary-implications-from-latest-five-papers.md`
+
+## [2026-04-21] ingest | Legal and Policy Framework for Digital Forensics (2022)
+
+Pages created:
+- `wiki/sources/legal-and-policy-framework-for-digital-forensics-2022.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/log.md`
+
+Key additions:
+- Added a UK practitioner legal-policy source mapping digital-evidence obligations across lifecycle stages.
+- Strengthened legal-constraints concept coverage for multi-statute governance and privacy as a cross-cutting duty.
+- Linked the new source into the core navigation and citation graph.
+
+## [2026-04-21] query | review AGAFA documentation after latest legal-policy ingest
+
+Pages consulted:
+- `wiki/products/agafa-framework.md`
+- `wiki/analyses/agafa-go-no-go-deployment-gate.md`
+- `wiki/analyses/uk-compliance-checklist-for-agafa-case-deployment.md`
+- `wiki/analyses/agafa-executive-summary-implications-from-latest-five-papers.md`
+- `wiki/sources/legal-and-policy-framework-for-digital-forensics-2022.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+
+Output filed: yes — updated existing AGAFA product and analysis pages for UK legal-policy lifecycle alignment

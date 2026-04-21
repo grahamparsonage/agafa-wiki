@@ -3,7 +3,7 @@ title: Bibliography
 type: bibliography
 created: 2026-04-17
 updated: 2026-04-21
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf]
 tags: [bibliography, references, sources]
 ---
 
@@ -38,6 +38,10 @@ Master bibliography of all ingested sources in this wiki. Keep this page updated
 - **Fahndrich et al. (2023)** — Fahndrich, J., Honekamp, W., Povalej, R., Rittelmeier, H., Berner, S., & Labudde, D. (2023). *Digital forensics and strong AI: A structured literature review*. Forensic Science International: Digital Investigation, 46, 301617. https://doi.org/10.1016/j.fsidi.2023.301617  
   - Source page: [[digital-forensics-and-strong-ai-structured-literature-review]]  
   - Raw file: `1-s2.0-S2666281723001294-main.pdf`
+
+- **Goldstraw-White (2022)** — Goldstraw-White, J. (2022, September). *Legal and policy framework for digital forensics: A resource for practitioners*. Digital Forensics and Social Media project briefing (PRCI, UCL, and ICPR/Birkbeck).  
+  - Source page: [[legal-and-policy-framework-for-digital-forensics-2022]]  
+  - Raw file: `Final-Legal-Procedural-and-Guidance.pdf`
 
 - **Hall, Sakzad, & Choo (2022)** — Hall, S. W., Sakzad, A., & Choo, K.-K. R. (2022). *Explainable artificial intelligence for digital forensics*. Wiley Interdisciplinary Reviews: Forensic Science, 4(2), e1434. https://doi.org/10.1002/wfs2.1434  
   - Source page: [[explainable-artificial-intelligence-for-digital-forensics-2022]]  

@@ -2,8 +2,8 @@
 title: AGAFA Go-No-Go Deployment Gate
 type: analysis
 created: 2026-04-17
-updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, Quality standards for digital forensics.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf]
+updated: 2026-04-21
+sources: [AGAFA.pdf, ACPO.pdf, Quality standards for digital forensics.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf]
 tags: [analysis, agafa, deployment, governance, acpo, quality-assurance, uk-focused]
 ---
 
@@ -49,10 +49,15 @@ Compact green/amber/red gate for deciding whether an AGAFA pilot or deployment i
 - Amber: Quality activities occur but cadence/resources are fragile.
 - Red: No sustainable QA loop or unresolved recurring non-conformities.
 
+## Gate 8: UK Legal-Policy Coverage
+- Green: Legal obligations are mapped across lifecycle phases (authority, collection, extraction, analysis, disclosure, presentation), with ownership and evidence links.
+- Amber: Legal mapping exists but is partial, outdated, or weakly connected to operational controls.
+- Red: Legal governance is treated as ad hoc or single-document compliance with no lifecycle mapping.
+
 ## Overall decision rule
 - **Go:** All of Gates 1-4 are Green; no Red anywhere.
 - **Conditional Go:** Gates 1-4 are at least Amber, no Red, and a dated remediation plan exists.
-- **No-Go:** Any Red in Gates 1-4, or multiple unresolved Reds in Gates 5-7.
+- **No-Go:** Any Red in Gates 1-4, or multiple unresolved Reds in Gates 5-8.
 
 ## Minimum evidence pack for gate review
 - Scope statement and legal authority notes
@@ -68,3 +73,4 @@ Compact green/amber/red gate for deciding whether an AGAFA pilot or deployment i
 - [[acpo-compliance-checklist-for-agafa-deployments]]
 - [[quality-standards-and-accreditation-in-digital-forensics]]
 - [[agafa-alignment-with-acpo-principles]]
+- [[legal-and-policy-framework-for-digital-forensics-2022]]

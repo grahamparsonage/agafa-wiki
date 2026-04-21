@@ -3,7 +3,7 @@ title: UK Compliance Checklist for AGAFA Case Deployment
 type: analysis
 created: 2026-04-21
 updated: 2026-04-21
-sources: [ACPO.pdf, validation_guidance.pdf, Quality standards for digital forensics.pdf, AGAFA.pdf]
+sources: [ACPO.pdf, validation_guidance.pdf, Quality standards for digital forensics.pdf, AGAFA.pdf, Final-Legal-Procedural-and-Guidance.pdf]
 tags: [analysis, agafa, uk-focused, compliance, checklist, digital-forensics, governance]
 ---
 
@@ -21,6 +21,7 @@ One-page operational checklist for deciding whether an AGAFA-assisted digital-fo
 - [ ] **Scope bounded:** Collection and analysis scope is clearly defined and technically enforced.
 - [ ] **Proportionality justified:** Intrusion is justified against investigative need.
 - [ ] **Deviation procedure set:** Scope changes require documented approval and rationale.
+- [ ] **Lifecycle legal mapping complete:** Legal and procedural obligations are mapped across collection, extraction, analysis, disclosure, and presentation.
 
 ## 2) Evidence integrity and handling (ACPO-aligned)
 
