@@ -3,7 +3,7 @@ title: Glossary
 type: glossary
 created: 2026-04-07
 updated: 2026-04-21
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -245,6 +245,11 @@ Each entry follows this format:
 : In DF literature discussion, a framing for highly autonomous and general AI capability claims that currently exceed most narrow-task forensic AI deployments.
 - Preferred: `strong AI` / Avoid: `production-ready autonomous DF AI` (without method-level evidence)
 - See also: [[digital-forensics-and-strong-ai-structured-literature-review]]
+
+**Cyber Security Body of Knowledge (CyBOK)** *(canonical form)*
+: Community-maintained body-of-knowledge framework that organises cyber security into defined Knowledge Areas (KAs) for curriculum design, training, and competency mapping.
+- Preferred: `CyBOK` after first expansion / Avoid: `cybersecurity syllabus` (too narrow)
+- See also: [[cyber-security-body-of-knowledge-cybok]], [[cybok-v1-1-0]]
 
 ---
 

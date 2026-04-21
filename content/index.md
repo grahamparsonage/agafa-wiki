@@ -45,6 +45,7 @@ Each entry follows this format:
 - [[ai-enhanced-digital-forensics-automated-techniques-efficient-investigation-evidence-collection]] — Survey-style paper describing AI-enabled automation opportunities for faster evidence collection and investigative workflow acceleration. | source | 2026-04-21
 - [[digital-forensics-and-strong-ai-structured-literature-review]] — Structured review assessing how strong-AI framing appears in digital forensics literature and where evidence remains limited. | source | 2026-04-21
 - [[legal-and-policy-framework-for-digital-forensics-2022]] — UK-focused legal-policy briefing mapping multi-statute governance for digital and social-media evidence across collection, disclosure, and court presentation | source | 2026-04-21
+- [[cybok-v1-1-0]] — Canonical CyBOK reference (v1.1.0) covering cyber security Knowledge Areas, including Security Operations and Forensics | source | 2026-04-21
 
 ---
 
@@ -94,6 +95,7 @@ Each entry follows this format:
 - [[quality-standards-and-accreditation-in-digital-forensics]] — Quality-system concept linking ISO/IEC 17025-style controls to method validity, competence, and assurance | concept | 2026-04-17
 - [[method-validation-in-digital-forensics]] — End-to-end DF method validation concept covering fit-for-purpose evidence, verification boundaries, and change-triggered revalidation | concept | 2026-04-20
 - [[explainable-ai-in-digital-forensics]] — XAI concept page covering explainability maturity levels, human-on-the-loop oversight, and court-facing communication constraints | concept | 2026-04-20
+- [[cyber-security-body-of-knowledge-cybok]] — Community cyber-security taxonomy reference for KA-based curriculum and competency alignment | concept | 2026-04-21
 
 ---
 
@@ -134,6 +136,7 @@ Each entry follows this format:
 - [[agafa-validation-backlog-and-closure-tracker]] — Action tracker for validation tasks, evidence links, blockers, and closure sign-off across pilot-to-production readiness | analysis | 2026-04-21
 - [[agafa-risk-register-and-control-plan]] — Living risk register for AGAFA justice-impact failure modes with preventive/detective controls and escalation thresholds | analysis | 2026-04-21
 - [[agafa-test-strategy-and-coverage-matrix]] — Requirement-to-test-layer coverage matrix with dataset strategy, thresholds, and revalidation triggers | analysis | 2026-04-21
+- [[student-projects-honours-year-cybok-aligned]] — Honours-year student project ideas for Cyber Security and Computer Science with CyBOK KA cross-references | analysis | 2026-04-21
 
 ---
 

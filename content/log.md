@@ -522,3 +522,38 @@ Pages consulted:
 - `wiki/products/agafa-framework.md`
 
 Output filed: yes — `wiki/development/agafa-validation-backlog-and-closure-tracker.md`, `wiki/development/agafa-risk-register-and-control-plan.md`, `wiki/development/agafa-test-strategy-and-coverage-matrix.md`
+
+## [2026-04-21] ingest | CyBOK v1.1.0
+
+Pages created:
+- `wiki/sources/cybok-v1-1-0.md`
+- `wiki/concepts/cyber-security-body-of-knowledge-cybok.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/log.md`
+
+Key additions:
+- Added CyBOK as a canonical, open cyber-security body-of-knowledge source with KA structure and update-governance framing.
+- Captured explicit Forensics and Security Operations & Incident Management coverage to strengthen incident-to-forensics lifecycle context.
+- Added a dedicated CyBOK concept page and glossary term to support curriculum/competency mapping across the existing DF knowledge graph.
+
+## [2026-04-21] query | honours-year student projects aligned to CyBOK
+
+Pages consulted:
+- `wiki/concepts/cyber-security-body-of-knowledge-cybok.md`
+- `wiki/sources/cybok-v1-1-0.md`
+- `wiki/development/agafa-development-roadmap-and-toolset.md`
+
+Output filed: yes — `wiki/development/student-projects-honours-year-cybok-aligned.md`
+
+## [2026-04-21] query | categorise student projects by track and prerequisites
+
+Pages consulted:
+- `wiki/development/student-projects-honours-year-cybok-aligned.md`
+- `wiki/concepts/cyber-security-body-of-knowledge-cybok.md`
+
+Output filed: yes — updated `wiki/development/student-projects-honours-year-cybok-aligned.md` with software-heavy/research-heavy/mixed tracks and suggested prerequisite skills

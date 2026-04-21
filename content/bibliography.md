@@ -3,7 +3,7 @@ title: Bibliography
 type: bibliography
 created: 2026-04-17
 updated: 2026-04-21
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf, CyBOK_v1.1.0.pdf]
 tags: [bibliography, references, sources]
 ---
 
@@ -30,6 +30,10 @@ Master bibliography of all ingested sources in this wiki. Keep this page updated
 - **Casino et al. (2022)** — Casino, F., Dasaklis, T. K., Spathoulas, G. P., Anagnostopoulos, M., Ghosal, A., Borocz, I., Solanas, A., Conti, M., & Patsakis, C. (2022). *Research trends, challenges, and emerging topics in digital forensics: A review of reviews*. IEEE Access, 10, 25464-25493. https://doi.org/10.1109/ACCESS.2022.3154059  
   - Source page: [[research-trends-challenges-and-emerging-topics-in-digital-forensics-review-of-reviews]]  
   - Raw file: `Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf`
+
+- **CyBOK Editorial Team (2021)** — CyBOK Editorial Team. (2021, July 31). *The Cyber Security Body of Knowledge (CyBOK), Version 1.1.0*. National Cyber Security Centre (NCSC), UK. https://www.cybok.org/  
+  - Source page: [[cybok-v1-1-0]]  
+  - Raw file: `CyBOK_v1.1.0.pdf`
 
 - **Erdem, Gelfond, & Leone (2016)** — Erdem, E., Gelfond, M., & Leone, N. (2016). *Applications of Answer Set Programming*. AI Magazine, 37(3), 53–68. https://doi.org/10.1609/aimag.v37i3.2678  
   - Source page: [[applications-of-answer-set-programming-erdem-gelfond-leone-2016]]  
