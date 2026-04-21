@@ -1,5 +1,5 @@
 ---
-title: Research Trends, Challenges, and Emerging Topics in Digital Forensics: A Review of Reviews (2022)
+title: "Research Trends, Challenges, and Emerging Topics in Digital Forensics: A Review of Reviews (2022)"
 type: source
 created: 2026-04-21
 updated: 2026-04-21

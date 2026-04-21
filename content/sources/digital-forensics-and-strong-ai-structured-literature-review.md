@@ -1,5 +1,5 @@
 ---
-title: Digital Forensics and Strong AI: A Structured Literature Review (2023)
+title: "Digital Forensics and Strong AI: A Structured Literature Review (2023)"
 type: source
 created: 2026-04-21
 updated: 2026-04-21

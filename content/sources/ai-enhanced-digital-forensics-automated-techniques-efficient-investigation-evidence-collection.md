@@ -1,5 +1,5 @@
 ---
-title: AI-Enhanced Digital Forensics: Automated Techniques for Efficient Investigation and Evidence Collection (2024)
+title: "AI-Enhanced Digital Forensics: Automated Techniques for Efficient Investigation and Evidence Collection (2024)"
 type: source
 created: 2026-04-21
 updated: 2026-04-21

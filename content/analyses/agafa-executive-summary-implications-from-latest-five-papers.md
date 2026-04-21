@@ -1,5 +1,5 @@
 ---
-title: AGAFA Executive Summary: Implications from Latest Five Papers
+title: "AGAFA Executive Summary: Implications from Latest Five Papers"
 type: analysis
 created: 2026-04-21
 updated: 2026-04-21

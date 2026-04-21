@@ -1,5 +1,5 @@
 ---
-title: Machine-Learning Forensics: State of the Art in Smart Environments (2023)
+title: "Machine-Learning Forensics: State of the Art in Smart Environments (2023)"
 type: source
 created: 2026-04-21
 updated: 2026-04-21
