@@ -2,8 +2,8 @@
 title: Glossary
 type: glossary
 created: 2026-04-07
-updated: 2026-04-20
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf]
+updated: 2026-04-21
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -225,6 +225,26 @@ Each entry follows this format:
 : AI implementation that returns classifications or scores without exposing internal reasoning sufficient for direct scrutiny.
 - Preferred: `opaque AI` / Avoid: `validated finding` (opaque output still needs examiner validation)
 - See also: [[explainable-ai-in-digital-forensics]]
+
+**Blockchain-based IoT Forensics** *(canonical form)*
+: Forensic workflow designs that use blockchain mechanisms to strengthen integrity, traceability, and provenance handling for IoT evidence.
+- Preferred: `blockchain-based IoT forensics` / Avoid: `blockchain solves forensics` (over-claim)
+- See also: [[systematic-literature-review-blockchain-iot-forensic-investigation-process-models]]
+
+**Review of Reviews (RoR)** *(canonical form)*
+: A secondary synthesis that analyses prior review papers to identify macro-level trends, gaps, and consensus areas.
+- Preferred: `review of reviews` / Avoid: `meta-analysis` (unless statistical pooling is actually performed)
+- See also: [[research-trends-challenges-and-emerging-topics-in-digital-forensics-review-of-reviews]]
+
+**Machine-Learning Forensics** *(canonical form)*
+: Use of machine-learning methods to support digital forensic tasks such as triage, anomaly detection, attribution support, and evidence prioritisation.
+- Preferred: `machine-learning forensics` / Avoid: `fully automated forensics` (unless explicitly validated)
+- See also: [[machine-learning-forensics-state-of-the-art-smart-environments]]
+
+**Strong AI (DF discourse context)** *(canonical form)*
+: In DF literature discussion, a framing for highly autonomous and general AI capability claims that currently exceed most narrow-task forensic AI deployments.
+- Preferred: `strong AI` / Avoid: `production-ready autonomous DF AI` (without method-level evidence)
+- See also: [[digital-forensics-and-strong-ai-structured-literature-review]]
 
 ---
 

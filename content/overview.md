@@ -2,8 +2,8 @@
 title: Overview
 type: overview
 created: 2026-04-07
-updated: 2026-04-20
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf]
+updated: 2026-04-21
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,11 +15,11 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki now includes twelve ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including an SLR of DF ontologies), rule/ontology integration, ASP foundations, an ASP application survey, and a reference KAG architecture paper for explainable digital forensics.
+This wiki now includes seventeen ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including an SLR of DF ontologies), rule/ontology integration, ASP foundations, an ASP application survey, KAG architecture, and additional review-oriented mapping across blockchain-IoT forensics, machine-learning forensics, strong-AI discourse, and macro-level DF trend synthesis.
 
-**Source count:** 12
-**Wiki pages:** 45 (index, log, overview, glossary, bibliography, 12 sources, 1 product, 18 concepts, 1 style rule, 8 analyses)
-**Last ingest:** 2026-04-20 — Explainable Artificial Intelligence for Digital Forensics (2022)
+**Source count:** 17
+**Wiki pages:** 50 (index, log, overview, glossary, bibliography, 17 sources, 1 product, 18 concepts, 1 style rule, 8 analyses)
+**Last ingest:** 2026-04-21 — Five-paper batch ingest from `raw/`
 **Last lint:** —
 
 ---

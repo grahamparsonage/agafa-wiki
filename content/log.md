@@ -408,3 +408,57 @@ Pages consulted:
 - `wiki/concepts/rules-and-ontologies-integration.md`
 
 Output filed: no
+
+## [2026-04-21] ingest | five papers in raw
+
+Pages created:
+- `wiki/sources/systematic-literature-review-blockchain-iot-forensic-investigation-process-models.md`
+- `wiki/sources/research-trends-challenges-and-emerging-topics-in-digital-forensics-review-of-reviews.md`
+- `wiki/sources/machine-learning-forensics-state-of-the-art-smart-environments.md`
+- `wiki/sources/ai-enhanced-digital-forensics-automated-techniques-efficient-investigation-evidence-collection.md`
+- `wiki/sources/digital-forensics-and-strong-ai-structured-literature-review.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/glossary.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/log.md`
+
+Key additions:
+- Added five new source summaries from the current `raw/` PDF set.
+- Expanded glossary with blockchain-based IoT forensics, review-of-reviews, machine-learning forensics, and strong-AI discourse framing.
+- Extended bibliography and index for full cross-reference coverage.
+
+## [2026-04-21] query | deeper methods-datasets-limitations pass for five new papers
+
+Pages consulted:
+- `wiki/sources/systematic-literature-review-blockchain-iot-forensic-investigation-process-models.md`
+- `wiki/sources/research-trends-challenges-and-emerging-topics-in-digital-forensics-review-of-reviews.md`
+- `wiki/sources/machine-learning-forensics-state-of-the-art-smart-environments.md`
+- `wiki/sources/ai-enhanced-digital-forensics-automated-techniques-efficient-investigation-evidence-collection.md`
+- `wiki/sources/digital-forensics-and-strong-ai-structured-literature-review.md`
+- `wiki/products/agafa-framework.md`
+
+Output filed: yes — `wiki/analyses/five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications.md`
+
+## [2026-04-21] query | align five-paper implications with UK legislation and guidance
+
+Pages consulted:
+- `wiki/analyses/five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/sources/acpo-good-practice-guide-digital-evidence-v5.md`
+- `wiki/sources/digital-forensics-validation-draft-guidance-fsr-g-218-2015.md`
+
+Output filed: yes — `wiki/analyses/five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications.md` (updated with UK alignment gate)
+
+## [2026-04-21] query | create UK compliance checklist for AGAFA case deployment
+
+Pages consulted:
+- `wiki/analyses/five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications.md`
+- `wiki/sources/acpo-good-practice-guide-digital-evidence-v5.md`
+- `wiki/sources/digital-forensics-validation-draft-guidance-fsr-g-218-2015.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/analyses/agafa-go-no-go-deployment-gate.md`
+
+Output filed: yes — `wiki/analyses/uk-compliance-checklist-for-agafa-case-deployment.md`

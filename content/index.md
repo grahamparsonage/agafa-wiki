@@ -39,6 +39,11 @@ Each entry follows this format:
 - [[kag-boosting-llms-professional-domains-2025]] — WWW ’25 KAG framework: semantic-graph indexing, logical-form QA, hybrid retrieval; OpenSPG reference stack | source | 2026-04-19
 - [[digital-forensics-validation-draft-guidance-fsr-g-218-2015]] — UK-focused FSR draft guidance for DF method validation lifecycle, from end-user requirements through validation closure and post-validation governance | source | 2026-04-20
 - [[explainable-artificial-intelligence-for-digital-forensics-2022]] — Perspective on XAI in DF, mapping explainability maturity levels and supervised investigative-support deployment patterns | source | 2026-04-20
+- [[systematic-literature-review-blockchain-iot-forensic-investigation-process-models]] — SLR mapping blockchain-enabled IoT forensic process models, recurring workflow phases, and adoption constraints in evidence handling. | source | 2026-04-21
+- [[research-trends-challenges-and-emerging-topics-in-digital-forensics-review-of-reviews]] — Review-of-reviews consolidating digital forensics research trajectories, recurring methodological gaps, and high-priority future directions. | source | 2026-04-21
+- [[machine-learning-forensics-state-of-the-art-smart-environments]] — State-of-the-art review of machine-learning use in smart-environment digital forensic investigations, with method families, opportunities, and constraints. | source | 2026-04-21
+- [[ai-enhanced-digital-forensics-automated-techniques-efficient-investigation-evidence-collection]] — Survey-style paper describing AI-enabled automation opportunities for faster evidence collection and investigative workflow acceleration. | source | 2026-04-21
+- [[digital-forensics-and-strong-ai-structured-literature-review]] — Structured review assessing how strong-AI framing appears in digital forensics literature and where evidence remains limited. | source | 2026-04-21
 
 ---
 
@@ -114,6 +119,8 @@ Each entry follows this format:
 - [[agafa-implications-from-fsr-g-218-method-validation-guidance]] — Implication map for applying FSR-G-218 method-validation expectations to AGAFA design, validation, and deployment governance | analysis | 2026-04-20
 - [[agafa-fsr-g-218-pilot-implementation-checklist]] — One-page pilot checklist translating FSR-G-218 method-validation requirements into AGAFA implementation gates and evidence tasks | analysis | 2026-04-20
 - [[agafa-implications-from-xai-and-method-validation-guidance]] — Consolidated implications for AGAFA from XAI adoption framing and DF method-validation governance requirements | analysis | 2026-04-20
+- [[five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications]] — Cross-source evidence map of methods, dataset maturity, limitations, and deployment implications for AGAFA from the latest five-paper ingest | analysis | 2026-04-21
+- [[uk-compliance-checklist-for-agafa-case-deployment]] — One-page UK-focused operational checklist for lawful authority, validation, data protection, auditability, and court-facing reporting readiness in AGAFA case deployment | analysis | 2026-04-21
 
 ---
 
