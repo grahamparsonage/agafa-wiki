@@ -126,6 +126,17 @@ Each entry follows this format:
 
 ---
 
+## Development
+
+*Roadmaps, implementation plans, and toolchain guidance for building and operating systems in scope.*
+
+- [[agafa-development-roadmap-and-toolset]] — Phased AGAFA implementation roadmap and recommended toolset aligned to UK-focused governance and validation constraints | analysis | 2026-04-21
+- [[agafa-validation-backlog-and-closure-tracker]] — Action tracker for validation tasks, evidence links, blockers, and closure sign-off across pilot-to-production readiness | analysis | 2026-04-21
+- [[agafa-risk-register-and-control-plan]] — Living risk register for AGAFA justice-impact failure modes with preventive/detective controls and escalation thresholds | analysis | 2026-04-21
+- [[agafa-test-strategy-and-coverage-matrix]] — Requirement-to-test-layer coverage matrix with dataset strategy, thresholds, and revalidation triggers | analysis | 2026-04-21
+
+---
+
 ## Index Maintenance Notes
 
 - Add new pages immediately after creation
