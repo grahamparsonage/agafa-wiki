@@ -557,3 +557,12 @@ Pages consulted:
 - `wiki/concepts/cyber-security-body-of-knowledge-cybok.md`
 
 Output filed: yes — updated `wiki/development/student-projects-honours-year-cybok-aligned.md` with software-heavy/research-heavy/mixed tracks and suggested prerequisite skills
+
+## [2026-04-22] lint
+
+Issues found:
+- `wiki/index.md` had a stale last-updated date for `[[student-projects-honours-year-cybok-aligned]]` (`2026-04-21` vs actual page `updated: 2026-04-22`).
+
+Fixes applied:
+- Updated `wiki/index.md` entry for `[[student-projects-honours-year-cybok-aligned]]` to `2026-04-22`.
+- Verified internal links across wiki content pages resolve; no unresolved content links found after excluding template/example placeholders.

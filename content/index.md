@@ -136,7 +136,14 @@ Each entry follows this format:
 - [[agafa-validation-backlog-and-closure-tracker]] — Action tracker for validation tasks, evidence links, blockers, and closure sign-off across pilot-to-production readiness | analysis | 2026-04-21
 - [[agafa-risk-register-and-control-plan]] — Living risk register for AGAFA justice-impact failure modes with preventive/detective controls and escalation thresholds | analysis | 2026-04-21
 - [[agafa-test-strategy-and-coverage-matrix]] — Requirement-to-test-layer coverage matrix with dataset strategy, thresholds, and revalidation triggers | analysis | 2026-04-21
-- [[student-projects-honours-year-cybok-aligned]] — Honours-year student project ideas for Cyber Security and Computer Science with CyBOK KA cross-references | analysis | 2026-04-21
+
+---
+
+## Student Project Ideas
+
+*Curated honours-year project concepts mapped to CyBOK and scoped for practical delivery.*
+
+- [[student-projects-honours-year-cybok-aligned]] — Honours-year student project ideas for Cyber Security and Computer Science with CyBOK KA cross-references | analysis | 2026-04-22
 
 ---
 
