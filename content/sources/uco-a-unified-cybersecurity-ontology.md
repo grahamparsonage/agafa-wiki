@@ -1,5 +1,5 @@
 ---
-title: UCO: A Unified Cybersecurity Ontology
+title: "UCO: A Unified Cybersecurity Ontology"
 type: source
 created: 2026-04-22
 updated: 2026-04-22
