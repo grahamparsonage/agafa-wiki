@@ -566,3 +566,97 @@ Issues found:
 Fixes applied:
 - Updated `wiki/index.md` entry for `[[student-projects-honours-year-cybok-aligned]]` to `2026-04-22`.
 - Verified internal links across wiki content pages resolve; no unresolved content links found after excluding template/example placeholders.
+
+## [2026-04-22] ingest | raw directory batch (5 papers)
+
+Pages created:
+- `wiki/sources/case-based-reasoning-case-representation-methodologies.md`
+- `wiki/sources/assessing-ontology-mappings-on-concepts-and-instances.md`
+- `wiki/sources/uco-a-unified-cybersecurity-ontology.md`
+- `wiki/sources/smart-city-infrastructure-ontology-for-threats-cybercrime-and-digital-forensic-investigation.md`
+- `wiki/sources/comprehensive-survey-on-computer-forensics-state-of-the-art-tools-techniques-challenges-and-future-directions.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/log.md`
+
+Key additions:
+- Added five new source summaries spanning ontology-driven CBR, ontology-alignment quality assessment, UCO cybersecurity ontology foundations, smart-city SCOPE extension work, and broad computer-forensics toolkit survey coverage.
+- Extended glossary with UCO/CASE/SCOPE and ontology-alignment terminology for consistent downstream usage.
+- Updated index and bibliography to include the new sources and keep navigation/citations current.
+
+## [2026-04-22] ingest | raw directory batch (CTI and CASE/DFAX lineage)
+
+Pages created:
+- `wiki/sources/knowledge-graphs-and-semantic-web-tools-in-cyber-threat-intelligence-systematic-literature-review.md`
+- `wiki/sources/leveraging-cybox-to-standardize-representation-and-exchange-of-digital-forensic-information.md`
+- `wiki/sources/advancing-coordinated-cyber-investigations-and-tool-interoperability-using-community-developed-specification-language.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/log.md`
+
+Key additions:
+- Added direct primary-source coverage for DFAX and CASE evolution, including explicit UCO alignment and interoperability goals.
+- Added CTI semantic-web/knowledge-graph SLR coverage to support ontology-stack implementation-readiness analysis.
+- Updated glossary terminology with DFAX and CTI canonical entries for consistent usage across future pages.
+
+## [2026-04-22] query | ontology stack implementation readiness comparison
+
+Pages consulted:
+- `wiki/sources/uco-a-unified-cybersecurity-ontology.md`
+- `wiki/sources/leveraging-cybox-to-standardize-representation-and-exchange-of-digital-forensic-information.md`
+- `wiki/sources/advancing-coordinated-cyber-investigations-and-tool-interoperability-using-community-developed-specification-language.md`
+- `wiki/sources/knowledge-graphs-and-semantic-web-tools-in-cyber-threat-intelligence-systematic-literature-review.md`
+- `wiki/overview.md`
+
+Output filed: yes — `wiki/analyses/case-uco-dfax-implementation-readiness-comparison.md`
+
+## [2026-04-22] ingest | raw directory batch (ASP tooling and LLM-for-ASP)
+
+Pages created:
+- `wiki/sources/onlinesparc-a-programming-environment-for-answer-set-programming.md`
+- `wiki/sources/theory-solving-made-easy-with-clingo-5.md`
+- `wiki/sources/llasp-fine-tuning-large-language-models-for-answer-set-programming.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/log.md`
+
+Key additions:
+- Added coverage for ASP implementation tooling patterns, including online teaching/development workflows and clingo 5 theory-extension architecture.
+- Added LLM-for-ASP code-generation evidence via LLASP, including specialization/fine-tuning implications for semantic correctness.
+- Updated index, bibliography, and overview counts to keep navigation and synthesis current.
+
+## [2026-04-22] ingest | raw directory batch (OWL reasoner usability survey)
+
+Pages created:
+- `wiki/sources/owl-reasoners-still-useable-in-2023.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/log.md`
+
+Key additions:
+- Added OWL reasoner usability and maintenance-status evidence to support implementation-readiness decisions for ontology-centric stacks.
+- Updated source catalog, bibliography coverage, and overview counts to include the new survey.
+
+## [2026-04-22] query | evaluate Protégé and clingo suitability for AGAFA
+
+Pages consulted:
+- `wiki/products/agafa-framework.md`
+- `wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md`
+- `wiki/sources/theory-solving-made-easy-with-clingo-5.md`
+- `wiki/sources/owl-reasoners-still-useable-in-2023.md`
+
+Output filed: yes — `wiki/analyses/protege-and-clingo-suitability-for-agafa.md`

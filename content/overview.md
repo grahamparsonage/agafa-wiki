@@ -2,8 +2,8 @@
 title: Overview
 type: overview
 created: 2026-04-07
-updated: 2026-04-21
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf, CyBOK_v1.1.0.pdf]
+updated: 2026-04-22
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf, 1809.08304v1.pdf, OASIcs.ICLP.2016.2.pdf, 2407.18723v1.pdf, 2309.06888v1.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,12 +15,12 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki now includes nineteen ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including an SLR of DF ontologies), rule/ontology integration, ASP foundations, an ASP application survey, KAG architecture, additional review-oriented mapping across blockchain-IoT forensics, machine-learning forensics, strong-AI discourse, macro-level DF trend synthesis, a UK practitioner legal-policy framework resource, and the CyBOK taxonomy baseline for KA-based capability mapping.
+This wiki now includes thirty-one ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including ontology alignment quality assessment), rule/ontology integration, ASP foundations, KAG architecture, broader cybersecurity ontology baselines (UCO/CASE/DFAX lineage), smart-city forensic ontology extension patterns (SCOPE), CTI semantic-web/knowledge-graph synthesis, expanded ASP tooling and LLM-for-ASP code-generation coverage, and OWL reasoner usability/maintenance evidence for practical implementation readiness.
 
-**Source count:** 19
-**Wiki pages:** 54 (index, log, overview, glossary, bibliography, 19 sources, 1 product, 19 concepts, 1 style rule, 10 analyses)
-**Last ingest:** 2026-04-21 — CyBOK v1.1.0
-**Last lint:** —
+**Source count:** 31
+**Wiki pages:** 78 (index, log, overview, glossary, bibliography, 31 sources, 1 product, 19 concepts, 1 style rule, 14 analyses, 4 development, 1 student-project page)
+**Last ingest:** 2026-04-22 — ingest of OWL reasoner usability survey
+**Last lint:** 2026-04-22
 
 ---
 
@@ -44,6 +44,11 @@ Current coverage includes:
 - Legal/admissibility-oriented constraints in investigative contexts
 - UK legal-policy mapping across evidence lifecycle phases, including collection, extraction, disclosure, and presentation duties
 - CyBOK knowledge-area framing to align digital-forensics content with adjacent cyber security competencies and curriculum pathways
+- Cybersecurity ontology interoperability patterns (UCO and related mappings)
+- Smart-city infrastructure threat/evidence ontology extension patterns (SCOPE)
+- Practical computer-forensics toolkit comparison framing for investigator tool selection
+- ASP tooling architecture and extension pathways (onlineSPARC and clingo 5 theory interfaces)
+- LLM-assisted ASP code generation evidence, including domain-specific fine-tuning behavior
 
 ---
 
@@ -69,7 +74,6 @@ Current coverage includes:
 - UK-focused framing is now applied. Which non-UK jurisdiction should be prioritized next for comparison/adaptation?
 - Should the wiki include a dedicated page for forensic workflow standards (for example, ISO 17025, evidence handling principles) separate from legal constraints?
 - Which audience should be prioritised next for documentation outputs: investigators, legal reviewers, or policy/oversight stakeholders?
-- Do you want a dedicated analysis comparing ontology stacks (CASE/UCO/DFAX/ParFor/WSFO) for implementation readiness?
 
 ---
 

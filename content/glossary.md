@@ -2,8 +2,8 @@
 title: Glossary
 type: glossary
 created: 2026-04-07
-updated: 2026-04-21
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf]
+updated: 2026-04-22
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -250,6 +250,36 @@ Each entry follows this format:
 : Community-maintained body-of-knowledge framework that organises cyber security into defined Knowledge Areas (KAs) for curriculum design, training, and competency mapping.
 - Preferred: `CyBOK` after first expansion / Avoid: `cybersecurity syllabus` (too narrow)
 - See also: [[cyber-security-body-of-knowledge-cybok]], [[cybok-v1-1-0]]
+
+**Unified Cybersecurity Ontology (UCO)** *(canonical form)*
+: Core cybersecurity ontology designed to unify heterogeneous cyber data, standards, and tooling schemas for semantic interoperability and reasoning.
+- Preferred: `UCO` after first expansion / Avoid: `generic cyber ontology` (when specifically referring to the Syed et al. ontology lineage)
+- See also: [[uco-a-unified-cybersecurity-ontology]]
+
+**Cyber-investigation Analysis Standard Expression (CASE)** *(canonical form)*
+: Investigation-oriented ontology/specification aligned with UCO ecosystem for representing cyber/digital investigation information in structured, exchangeable form.
+- Preferred: `CASE` after first expansion / Avoid: `case ontology` (ambiguous with case-based reasoning literature)
+- See also: [[smart-city-infrastructure-ontology-for-threats-cybercrime-and-digital-forensic-investigation]]
+
+**Smart City Ontological Paradigm Expression (SCOPE)** *(canonical form)*
+: Smart-city-focused ontology extension profile built on UCO/CASE concepts for representing SCI threats, cybercrime, evidence artefacts, and investigation workflows.
+- Preferred: `SCOPE` after first expansion / Avoid: `smart city ontology` (when specifically referring to the Tok et al. extension profile)
+- See also: [[smart-city-infrastructure-ontology-for-threats-cybercrime-and-digital-forensic-investigation]]
+
+**Ontology Alignment (OA)** *(canonical form)*
+: Process of identifying correspondences between entities in different ontologies to support interoperability, integration, and consistent reasoning.
+- Preferred: `ontology alignment` / Avoid: `ontology merge` (unless full merge operation is actually intended)
+- See also: [[assessing-ontology-mappings-on-concepts-and-instances]]
+
+**Digital Forensic Analysis eXpression (DFAX)** *(canonical form)*
+: Forensic-domain specification layer introduced over CybOX to represent forensic actions, provenance, and investigation context in structured, exchangeable form.
+- Preferred: `DFAX` after first expansion / Avoid: `forensic CybOX` (when referring to the specific schema effort)
+- See also: [[leveraging-cybox-to-standardize-representation-and-exchange-of-digital-forensic-information]]
+
+**Cyber Threat Intelligence (CTI)** *(canonical form)*
+: Process and output of collecting, processing, and sharing cyber-threat information to support detection, response, and risk-informed decision-making.
+- Preferred: `CTI` after first expansion / Avoid: `threat data` (too vague when structured intelligence is intended)
+- See also: [[knowledge-graphs-and-semantic-web-tools-in-cyber-threat-intelligence-systematic-literature-review]]
 
 ---
 

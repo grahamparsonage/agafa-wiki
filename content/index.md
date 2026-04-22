@@ -46,6 +46,18 @@ Each entry follows this format:
 - [[digital-forensics-and-strong-ai-structured-literature-review]] — Structured review assessing how strong-AI framing appears in digital forensics literature and where evidence remains limited. | source | 2026-04-21
 - [[legal-and-policy-framework-for-digital-forensics-2022]] — UK-focused legal-policy briefing mapping multi-statute governance for digital and social-media evidence across collection, disclosure, and court presentation | source | 2026-04-21
 - [[cybok-v1-1-0]] — Canonical CyBOK reference (v1.1.0) covering cyber security Knowledge Areas, including Security Operations and Forensics | source | 2026-04-21
+- [[case-based-reasoning-case-representation-methodologies]] — Survey of CBR case-representation methods, emphasizing ontology-driven approaches and remaining capability gaps | source | 2026-04-22
+- [[assessing-ontology-mappings-on-concepts-and-instances]] — Ontology-alignment quality metrics for concept and instance mappings without requiring reference alignments | source | 2026-04-22
+- [[uco-a-unified-cybersecurity-ontology]] — Core cybersecurity ontology proposal for unifying standards, heterogeneous sources, and linked open data context | source | 2026-04-22
+- [[smart-city-infrastructure-ontology-for-threats-cybercrime-and-digital-forensic-investigation]] — SCOPE ontology extension to UCO/CASE for smart-city threats, cybercrime, and forensic workflows | source | 2026-04-22
+- [[comprehensive-survey-on-computer-forensics-state-of-the-art-tools-techniques-challenges-and-future-directions]] — Broad computer-forensics survey covering domains, tool comparison criteria, challenges, and future directions | source | 2026-04-22
+- [[knowledge-graphs-and-semantic-web-tools-in-cyber-threat-intelligence-systematic-literature-review]] — SLR of CTI ontology/KG work, including construction, operational use, and ML/DL-assisted enrichment trends | source | 2026-04-22
+- [[leveraging-cybox-to-standardize-representation-and-exchange-of-digital-forensic-information]] — Foundational CybOX-based DF information exchange paper introducing DFAX and provenance-aware forensic-action modeling | source | 2026-04-22
+- [[advancing-coordinated-cyber-investigations-and-tool-interoperability-using-community-developed-specification-language]] — CASE specification paper aligning with UCO and evolving DFAX for broader cyber-investigation interoperability | source | 2026-04-22
+- [[onlinesparc-a-programming-environment-for-answer-set-programming]] — Browser-based ASP/SPARC environment designed to reduce setup barriers and improve educational usability via querying and visualization | source | 2026-04-22
+- [[theory-solving-made-easy-with-clingo-5]] — clingo 5 architecture and interfaces for integrating theory-specific reasoning across ASP modeling, grounding, and solving | source | 2026-04-22
+- [[llasp-fine-tuning-large-language-models-for-answer-set-programming]] — Evaluation and fine-tuning approach showing lightweight LLM specialization can improve ASP code-generation quality | source | 2026-04-22
+- [[owl-reasoners-still-useable-in-2023]] — Systematic usability/maintenance review of OWL reasoners and reasoner-based systems for practical 2023 deployment decisions | source | 2026-04-22
 
 ---
 
@@ -125,6 +137,8 @@ Each entry follows this format:
 - [[five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications]] — Cross-source evidence map of methods, dataset maturity, limitations, and deployment implications for AGAFA from the latest five-paper ingest | analysis | 2026-04-21
 - [[uk-compliance-checklist-for-agafa-case-deployment]] — One-page UK-focused operational checklist for lawful authority, validation, data protection, auditability, and court-facing reporting readiness in AGAFA case deployment | analysis | 2026-04-21
 - [[agafa-executive-summary-implications-from-latest-five-papers]] — One-page executive brief of the main AGAFA deployment implications from the latest five papers, with UK-focused governance emphasis | analysis | 2026-04-21
+- [[case-uco-dfax-implementation-readiness-comparison]] — Readiness-focused comparison recommending CASE+UCO as primary implementation path, with DFAX as legacy/translation reference | analysis | 2026-04-22
+- [[protege-and-clingo-suitability-for-agafa]] — Implementation-fit assessment of using Protégé for ontology governance and clingo for ASP validation in AGAFA workflows | analysis | 2026-04-22
 
 ---
 
