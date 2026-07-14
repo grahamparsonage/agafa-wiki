@@ -9,6 +9,11 @@ updates:
         applies-to: "version-updates"
         patterns:
           - "*"
+    ignore:
+      # js-yaml 5.x dropped the default export Quartz relies on
+      # (import yaml from "js-yaml"), breaking the build.
+      - dependency-name: "js-yaml"
+        update-types: ["version-update:semver-major"]
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
