@@ -3,7 +3,7 @@ title: AGAFA Framework
 type: product
 created: 2026-04-17
 updated: 2026-08-13
-sources: [AGAFA.pdf, ACPO.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf, Future of AI Driven Digital Forensics.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf, Future of AI Driven Digital Forensics.pdf, Ontology-Based_Neuro-Symbolic_AI_Effects_on_Prediction_Quality_and_Explainability.pdf]
 tags: [digital-forensics, xai, neuro-symbolic, llm, ontology, asp]
 ---
 
@@ -49,6 +49,12 @@ Case examples are summarised at a high level only. No procedural or operational 
 ## Domain-coverage note (disciplines ontology)
 Karie & Venter's DF disciplines ontology is useful for stating which specialisations a pilot covers (for example multimedia vs network vs device) without replacing UCO/CASE-style case representation. See [[digital-forensic-disciplines-ontology]].
 
+## Cross-domain neuro-symbolic XAI evidence (Smirnov et al., 2024)
+- Reinforces the cascade pattern: neural concept extraction then symbolic derivation—architecturally compatible with MM-LLM + ontology + ASP, though AGAFA keeps ASP as an external verifier rather than an in-network logical block alone.
+- Suggests explanation UX should offer attributive concept cues with optional expandable logical detail; full inference dumps are not always best for human performance.
+- Supports designing for cautious human use of explanations (most study participants did not fully trust explanations), aligning with human-on-the-loop accountability.
+- Does not replace DF method validation: experiments are non-forensic research datasets.
+
 ## Related pages
 - [[agafa]]
 - [[agafa-ontology-kag-asp-pipeline-suitability]]
@@ -65,3 +71,6 @@ Karie & Venter's DF disciplines ontology is useful for stating which specialisat
 - [[quantum-forensics]]
 - [[digital-forensic-disciplines-ontology]]
 - [[toward-a-general-ontology-for-digital-forensic-disciplines-karie-venter-2014]]
+- [[ontology-based-neuro-symbolic-ai-effects-on-prediction-quality-and-explainability]]
+- [[agafa-implications-from-ontology-based-neuro-symbolic-ai]]
+- [[explainable-ai-in-digital-forensics]]

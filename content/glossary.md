@@ -3,7 +3,7 @@ title: Glossary
 type: glossary
 created: 2026-04-07
 updated: 2026-08-13
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf, Future of AI Driven Digital Forensics.pdf, Journal of Forensic Sciences - 2014 - Karie - Toward a General Ontology for Digital Forensic Disciplines.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf, Future of AI Driven Digital Forensics.pdf, Journal of Forensic Sciences - 2014 - Karie - Toward a General Ontology for Digital Forensic Disciplines.pdf, Ontology-Based_Neuro-Symbolic_AI_Effects_on_Prediction_Quality_and_Explainability.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -220,6 +220,16 @@ Each entry follows this format:
 : Oversight model where practitioners supervise and validate AI-assisted outputs rather than manually executing every step, retaining accountability for final forensic interpretation.
 - Preferred: `human-on-the-loop` / Avoid: `fully automated forensics` (when human accountability remains required)
 - See also: [[explainable-ai-in-digital-forensics]]
+
+**Attributive Ontology-Based Explanation** *(canonical form)*
+: Explanation that highlights how relevant ontology concepts relate to a model decision (for example concept probabilities or contributions), without necessarily showing a full inference proof.
+- Preferred: `attributive explanation` / Avoid: treating as a court-ready proof by itself
+- See also: [[explainable-ai-in-digital-forensics]], [[ontology-based-neuro-symbolic-ai-effects-on-prediction-quality-and-explainability]]
+
+**Logical Ontology-Based Explanation** *(canonical form)*
+: Explanation that presents an inference chain from identified ontology concepts through axioms to the predicted target class.
+- Preferred: `logical explanation`, `ontology inference explanation` / Avoid: assuming more detail always yields better human performance
+- See also: [[explainable-ai-in-digital-forensics]], [[ontology-based-neuro-symbolic-ai-effects-on-prediction-quality-and-explainability]]
 
 **Opaque AI (DF tool context)** *(canonical form)*
 : AI implementation that returns classifications or scores without exposing internal reasoning sufficient for direct scrutiny.

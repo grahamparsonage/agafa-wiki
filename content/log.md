@@ -721,3 +721,36 @@ Key additions:
 - Explicitly distinguished disciplines-taxonomy ontologies from UCO/CASE-style evidence-exchange ontologies.
 - Extended glossary with Digital Forensic Disciplines Ontology; updated catalogue counts to 33 sources / 83 pages.
 - Moved raw PDF to `raw/Processed/`.
+## [2026-08-13] ingest | Ontology-Based Neuro-Symbolic AI (Smirnov et al., 2024)
+
+Pages created:
+- `wiki/sources/ontology-based-neuro-symbolic-ai-effects-on-prediction-quality-and-explainability.md`
+
+Pages updated:
+- `wiki/concepts/neuro-symbolic-ai.md`
+- `wiki/concepts/explainable-ai-in-digital-forensics.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/log.md`
+- `annotated-bibliography.bib`
+- `annotated-bibliography.tex`
+
+Key additions:
+- Added IEEE Access evidence for ontology-aware self-explaining neural frameworks (base + interpretation + logical block) and training-path design.
+- Captured prediction-quality findings (concept supervision can improve target accuracy; logical loss mixed) and user-study results (explanations help; attributive often easier than full logical chains; cautious trust).
+- Extended glossary with attributive vs logical ontology-based explanation terms; catalogue now 34 sources / 84 pages.
+- Moved raw PDF to `raw/Processed/`.
+## [2026-08-13] query | AGAFA implications from Smirnov et al. ontology-based neuro-symbolic AI
+
+Pages consulted:
+- `wiki/sources/ontology-based-neuro-symbolic-ai-effects-on-prediction-quality-and-explainability.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/concepts/neuro-symbolic-ai.md`
+- `wiki/concepts/explainable-ai-in-digital-forensics.md`
+- `wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md`
+- `wiki/analyses/agafa-implications-from-xai-and-method-validation-guidance.md`
+
+Output filed: yes — `wiki/analyses/agafa-implications-from-ontology-based-neuro-symbolic-ai.md`

@@ -60,6 +60,7 @@ Each entry follows this format:
 - [[owl-reasoners-still-useable-in-2023]] — Systematic usability/maintenance review of OWL reasoners and reasoner-based systems for practical 2023 deployment decisions | source | 2026-04-22
 - [[future-of-ai-driven-digital-forensics]] — Chapter-only ingest of Iyengar et al. (2025) Ch. 12 on AI-driven DF futures: redundancy reduction, recovery, tool security, and speculative quantum synergy | source | 2026-08-13
 - [[toward-a-general-ontology-for-digital-forensic-disciplines-karie-venter-2014]] — Karie & Venter (2014) five-layer DF disciplines ontology for specialisation, certification, tools, and curricula | source | 2026-08-13
+- [[ontology-based-neuro-symbolic-ai-effects-on-prediction-quality-and-explainability]] — Smirnov et al. (2024) ontology-aware neuro-symbolic framework with prediction-quality experiments and attributive vs logical explanation user study | source | 2026-08-13
 
 ---
 
@@ -92,7 +93,7 @@ Each entry follows this format:
 *One entry per core domain concept.*
 
 - [[legal-constraints-in-digital-forensics]] — Legal and procedural constraints shaping admissible, auditable DF workflows | concept | 2026-08-13
-- [[neuro-symbolic-ai]] — Hybrid AI approach combining neural learning with symbolic reasoning for transparency and control | concept | 2026-04-17
+- [[neuro-symbolic-ai]] — Hybrid AI approach combining neural learning with symbolic reasoning for transparency and control | concept | 2026-08-13
 - [[retrieval-augmented-generation-rag]] — Retrieval-grounded generation pattern to improve factuality and domain relevance | concept | 2026-04-19
 - [[knowledge-augmented-generation-kag]] — Structured-knowledge-enhanced generation using ontologies/graphs for context-sensitive retrieval | concept | 2026-04-19
 - [[answer-set-programming-asp]] — Declarative logic paradigm for formal rule-based validation and reproducibility | concept | 2026-04-19
@@ -144,6 +145,7 @@ Each entry follows this format:
 - [[case-uco-dfax-implementation-readiness-comparison]] — Readiness-focused comparison recommending CASE+UCO as primary implementation path, with DFAX as legacy/translation reference | analysis | 2026-04-22
 - [[protege-and-clingo-suitability-for-agafa]] — Implementation-fit assessment of using Protégé for ontology governance and clingo for ASP validation in AGAFA workflows | analysis | 2026-04-22
 - [[agafa-implications-from-future-of-ai-driven-digital-forensics]] — Horizon-scan implication map from Iyengar et al. (2025) Ch. 12: near-term dedupe/drift/toolchain actions vs speculative quantum/decryption non-dependencies | analysis | 2026-08-13
+- [[agafa-implications-from-ontology-based-neuro-symbolic-ai]] — Implication map from Smirnov et al. (2024): cascade architecture fit, attributive-first UX, concept-label evaluation, neuro–symbolic disagreement controls | analysis | 2026-08-13
 
 ---
 
