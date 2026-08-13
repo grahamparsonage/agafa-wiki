@@ -376,5 +376,7 @@ Honours-year project portfolio for Cyber Security and Computer Science students,
 ## Related pages
 - [[cyber-security-body-of-knowledge-cybok]]
 - [[cybok-v1-1-0]]
+- [[digital-forensic-disciplines-ontology]]
+- [[toward-a-general-ontology-for-digital-forensic-disciplines-karie-venter-2014]]
 - [[agafa-development-roadmap-and-toolset]]
 - [[agafa-test-strategy-and-coverage-matrix]]

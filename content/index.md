@@ -59,6 +59,7 @@ Each entry follows this format:
 - [[llasp-fine-tuning-large-language-models-for-answer-set-programming]] — Evaluation and fine-tuning approach showing lightweight LLM specialization can improve ASP code-generation quality | source | 2026-04-22
 - [[owl-reasoners-still-useable-in-2023]] — Systematic usability/maintenance review of OWL reasoners and reasoner-based systems for practical 2023 deployment decisions | source | 2026-04-22
 - [[future-of-ai-driven-digital-forensics]] — Chapter-only ingest of Iyengar et al. (2025) Ch. 12 on AI-driven DF futures: redundancy reduction, recovery, tool security, and speculative quantum synergy | source | 2026-08-13
+- [[toward-a-general-ontology-for-digital-forensic-disciplines-karie-venter-2014]] — Karie & Venter (2014) five-layer DF disciplines ontology for specialisation, certification, tools, and curricula | source | 2026-08-13
 
 ---
 
@@ -98,9 +99,9 @@ Each entry follows this format:
 - [[acpo-four-principles-of-digital-evidence]] — UK-focused four-principle baseline for evidence integrity and accountability | concept | 2026-04-17
 - [[digital-forensic-triage-and-proportionality]] — UK-focused triage-as-process and proportionate scope decisions | concept | 2026-04-17
 - [[audit-trail-and-reproducibility-in-df]] — Process recording and independent reproducibility expectations in DF | concept | 2026-04-17
-- [[ontology-engineering-in-digital-forensics]] — Formal ontology modeling for machine-interpretable evidence integration and reasoning | concept | 2026-04-19
+- [[ontology-engineering-in-digital-forensics]] — Formal ontology modeling for machine-interpretable evidence integration and reasoning | concept | 2026-08-13
 - [[semantic-web-standards-for-digital-forensics-automation]] — RDF/OWL/SWRL/SPARQL foundations for semantic DF automation workflows | concept | 2026-04-17
-- [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-04-19
+- [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-08-13
 - [[rules-and-ontologies-integration]] — Integration pattern combining ontology semantics with explicit rule-based derivations | concept | 2026-04-17
 - [[semantic-web-querying-and-inference-patterns]] — Query and inference pattern families for RDF/ontology-centered reasoning workflows | concept | 2026-04-17
 - [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-08-13
@@ -110,6 +111,7 @@ Each entry follows this format:
 - [[explainable-ai-in-digital-forensics]] — XAI concept page covering explainability maturity levels, human-on-the-loop oversight, and court-facing communication constraints | concept | 2026-08-13
 - [[cyber-security-body-of-knowledge-cybok]] — Community cyber-security taxonomy reference for KA-based curriculum and competency alignment | concept | 2026-04-21
 - [[quantum-forensics]] — Emerging speculative framing of quantum computing (often with AI) for large-scale DF analysis, recovery, and post-quantum evidence security | concept | 2026-08-13
+- [[digital-forensic-disciplines-ontology]] — Taxonomy-style partitioning of DF into nested disciplines/subdisciplines for curriculum, certification, and tool scoping | concept | 2026-08-13
 
 ---
 

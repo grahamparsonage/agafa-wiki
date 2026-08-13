@@ -46,6 +46,9 @@ Case examples are summarised at a high level only. No procedural or operational 
 - Operational themes that can inform AGAFA backlog thinking: forensic redundancy reduction before analysis, monitoring for model drift, and hardening the AI toolchain against adversarial tampering and data-breach vectors.
 - Claims that AI can recover or effectively decrypt material without keys remain outside AGAFA's validated scope and conflict with cautious UK method-validation practice unless separately evidenced.
 
+## Domain-coverage note (disciplines ontology)
+Karie & Venter's DF disciplines ontology is useful for stating which specialisations a pilot covers (for example multimedia vs network vs device) without replacing UCO/CASE-style case representation. See [[digital-forensic-disciplines-ontology]].
+
 ## Related pages
 - [[agafa]]
 - [[agafa-ontology-kag-asp-pipeline-suitability]]
@@ -60,3 +63,5 @@ Case examples are summarised at a high level only. No procedural or operational 
 - [[future-of-ai-driven-digital-forensics]]
 - [[agafa-implications-from-future-of-ai-driven-digital-forensics]]
 - [[quantum-forensics]]
+- [[digital-forensic-disciplines-ontology]]
+- [[toward-a-general-ontology-for-digital-forensic-disciplines-karie-venter-2014]]

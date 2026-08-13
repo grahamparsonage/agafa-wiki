@@ -3,7 +3,7 @@ title: Overview
 type: overview
 created: 2026-04-07
 updated: 2026-08-13
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf, 1809.08304v1.pdf, OASIcs.ICLP.2016.2.pdf, 2407.18723v1.pdf, 2309.06888v1.pdf, Future of AI Driven Digital Forensics.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, Final-Legal-Procedural-and-Guidance.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf, 1809.08304v1.pdf, OASIcs.ICLP.2016.2.pdf, 2407.18723v1.pdf, 2309.06888v1.pdf, Future of AI Driven Digital Forensics.pdf, Journal of Forensic Sciences - 2014 - Karie - Toward a General Ontology for Digital Forensic Disciplines.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,11 +15,11 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki now includes thirty-two ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including ontology alignment quality assessment), rule/ontology integration, ASP foundations, KAG architecture, broader cybersecurity ontology baselines (UCO/CASE/DFAX lineage), smart-city forensic ontology extension patterns (SCOPE), CTI semantic-web/knowledge-graph synthesis, expanded ASP tooling and LLM-for-ASP code-generation coverage, OWL reasoner usability/maintenance evidence for practical implementation readiness, and a forward-looking chapter on AI-driven DF futures including redundancy reduction, forensic-tool security, and speculative quantum-forensics / post-quantum themes.
+This wiki now includes thirty-three ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, explicit DF method-validation lifecycle guidance, explainable-AI adoption framing for digital forensics practice, ontology-engineering (including a DF disciplines taxonomy ontology, ontology alignment quality assessment, and UCO/CASE/DFAX evidence-exchange baselines), rule/ontology integration, ASP foundations, KAG architecture, smart-city forensic ontology extension patterns (SCOPE), CTI semantic-web/knowledge-graph synthesis, expanded ASP tooling and LLM-for-ASP code-generation coverage, OWL reasoner usability/maintenance evidence for practical implementation readiness, and a forward-looking chapter on AI-driven DF futures including redundancy reduction, forensic-tool security, and speculative quantum-forensics / post-quantum themes.
 
-**Source count:** 32
-**Wiki pages:** 81 (index, log, overview, glossary, bibliography, 32 sources, 1 product, 20 concepts, 1 style rule, 15 analyses, 4 development, 1 student-project page)
-**Last ingest:** 2026-08-13 — chapter-only ingest of Iyengar et al. (2025) Ch. 12 (Future of AI-Driven Digital Forensics)
+**Source count:** 33
+**Wiki pages:** 83 (index, log, overview, glossary, bibliography, 33 sources, 1 product, 21 concepts, 1 style rule, 15 analyses, 4 development, 1 student-project page)
+**Last ingest:** 2026-08-13 — Karie & Venter (2014) DF disciplines ontology
 **Last lint:** 2026-04-22
 **Last query filed:** 2026-08-13 — AGAFA implications from Future of AI-Driven Digital Forensics (Ch. 12)
 
@@ -37,6 +37,7 @@ Current coverage includes:
 - Method-validation lifecycle design for digital forensics (end-user requirements, risk-based validation strategy, closure artifacts, and post-validation controls)
 - Explainability maturity framing for DF AI (opaque, interpretable, comprehensible, truly explainable) and user-centric communication expectations
 - Ontology-engineering patterns for semantic evidence integration and automation, plus a systematic map of DF ontology practices (29 ontologies, six research dimensions)
+- Digital forensic **disciplines ontology** (Karie & Venter, 2014) for specialisation/curriculum partitioning, kept distinct from UCO/CASE evidence-exchange models
 - Rules-and-ontologies integration patterns for explicit derivation workflows
 - ASP foundations including stable model semantics and generate-define-test modelling, plus an applications-level survey of deployed and research uses
 - Neuro-symbolic architecture patterns for forensic workflows

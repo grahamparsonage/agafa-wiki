@@ -697,3 +697,27 @@ Pages consulted:
 - `wiki/analyses/agafa-implications-from-xai-and-method-validation-guidance.md`
 
 Output filed: yes — `wiki/analyses/agafa-implications-from-future-of-ai-driven-digital-forensics.md`
+## [2026-08-13] ingest | Toward a General Ontology for Digital Forensic Disciplines (Karie & Venter, 2014)
+
+Pages created:
+- `wiki/sources/toward-a-general-ontology-for-digital-forensic-disciplines-karie-venter-2014.md`
+- `wiki/concepts/digital-forensic-disciplines-ontology.md`
+
+Pages updated:
+- `wiki/concepts/ontology-engineering-in-digital-forensics.md`
+- `wiki/concepts/digital-forensic-ontology-standardization.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/Student Project Ideas/student-projects-honours-year-cybok-aligned.md`
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/log.md`
+- `annotated-bibliography.bib`
+- `annotated-bibliography.tex`
+
+Key additions:
+- Added Karie & Venter five-layer DF disciplines ontology (computer/software/database/multimedia/device/network) for specialisation, certification, tools, and curricula.
+- Explicitly distinguished disciplines-taxonomy ontologies from UCO/CASE-style evidence-exchange ontologies.
+- Extended glossary with Digital Forensic Disciplines Ontology; updated catalogue counts to 33 sources / 83 pages.
+- Moved raw PDF to `raw/Processed/`.
