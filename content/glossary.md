@@ -2,8 +2,8 @@
 title: Glossary
 type: glossary
 created: 2026-04-07
-updated: 2026-04-22
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf]
+updated: 2026-08-13
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, Applications of Answer Set Programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf, 36(2)-4 (web).pdf, KAG.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf, 1-s2.0-S2666281722001512-main.pdf, Research_Trends_Challenges_and_Emerging_Topics_in_Digital_Forensics_A_Review_of_Reviews.pdf, applsci-13-10169.pdf, e3f75f341c6f3c510da036610d1979796eab.pdf, 1-s2.0-S2666281723001294-main.pdf, CyBOK_v1.1.0.pdf, 482b044626df01d2d0fade25f291e0598a10.pdf, Assessing_Ontology_Mappings_on_a_Level_of_Concepts_and_Instances.pdf, 781.pdf, 2408.02023v2.pdf, A_Comprehensive_Survey_on_Computer_Forensics_State-of-the-Art_Tools_Techniques_Challenges_and_Future_Directions.pdf, 6a5c8c42418385d11e4796fa93a0d0c8a61e.pdf, 1-s2.0-S1742287615000158-main.pdf, 1-s2.0-S1742287617301007-Eoghan_Casey_cyber_ontology_2017.pdf, Future of AI Driven Digital Forensics.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -280,6 +280,26 @@ Each entry follows this format:
 : Process and output of collecting, processing, and sharing cyber-threat information to support detection, response, and risk-informed decision-making.
 - Preferred: `CTI` after first expansion / Avoid: `threat data` (too vague when structured intelligence is intended)
 - See also: [[knowledge-graphs-and-semantic-web-tools-in-cyber-threat-intelligence-systematic-literature-review]]
+
+**Model Drift (DF AI context)** *(canonical form)*
+: Degradation of a deployed AI/ML forensic model’s performance as data distributions, threat tooling, or artefact patterns change over time, requiring monitoring and adaptation.
+- Preferred: `model drift` / Avoid: `model rot` (informal)
+- See also: [[future-of-ai-driven-digital-forensics]], [[method-validation-in-digital-forensics]]
+
+**Forensic Redundancy Reduction** *(canonical form)*
+: Use of automated deduplication, clustering, and similarity detection to remove duplicate or near-duplicate digital artefacts so investigators can focus on unique evidence.
+- Preferred: `forensic redundancy reduction`, `deduplication` / Avoid: `data deletion` (implies destructive disposal rather than analysis scoping)
+- See also: [[future-of-ai-driven-digital-forensics]], [[digital-forensic-triage-and-proportionality]]
+
+**Quantum Forensics** *(canonical form)*
+: Emerging, largely speculative application of quantum computing (often with AI/ML) to large-scale forensic analysis, recovery, and cryptographic problems.
+- Preferred: `quantum forensics` / Avoid: treating as an operationally validated method today
+- See also: [[quantum-forensics]], [[future-of-ai-driven-digital-forensics]]
+
+**Quantum-Resistant Encryption (Post-Quantum Cryptography)** *(canonical form)*
+: Cryptographic methods designed to remain secure against both classical and quantum cryptanalytic attacks; discussed as a future requirement for protecting forensic data and tooling.
+- Preferred: `quantum-resistant encryption`, `post-quantum cryptography` / Avoid: `unbreakable encryption`
+- See also: [[quantum-forensics]], [[legal-constraints-in-digital-forensics]]
 
 ---
 

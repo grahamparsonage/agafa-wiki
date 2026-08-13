@@ -2,8 +2,8 @@
 title: Proactive and Reactive Digital Forensics Process
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [The Proactive and Reactive Digital Forensics Investigation Process.pdf]
+updated: 2026-08-13
+sources: [The Proactive and Reactive Digital Forensics Investigation Process.pdf, Future of AI Driven Digital Forensics.pdf]
 tags: [concept, digital-forensics, process-model, proactive-forensics, reactive-forensics, automation]
 ---
 
@@ -31,8 +31,12 @@ A proactive/reactive digital forensics process combines a live, mostly automated
 - Human decision remains central at the handoff point (continue to reactive investigation vs exit).
 - Integrity controls (for example hashing, chain-of-custody discipline) are required in both components.
 
+## Forward-looking reinforcement
+Later AI-futures framing similarly argues for a shift from purely reactive investigation toward predictive/proactive threat anticipation (behavioural analytics, multi-modal correlation, simulated investigative scenarios), while still requiring interpretability and lawful controls.
+
 ## Related pages
 - [[anti-forensics-in-digital-investigations]]
 - [[legal-constraints-in-digital-forensics]]
 - [[audit-trail-and-reproducibility-in-df]]
 - [[the-proactive-and-reactive-digital-forensics-investigation-process]]
+- [[future-of-ai-driven-digital-forensics]]

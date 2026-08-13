@@ -660,3 +660,40 @@ Pages consulted:
 - `wiki/sources/owl-reasoners-still-useable-in-2023.md`
 
 Output filed: yes — `wiki/analyses/protege-and-clingo-suitability-for-agafa.md`
+
+## [2026-08-13] ingest | Future of AI-Driven Digital Forensics (Iyengar et al. 2025, Ch. 12 only)
+
+Pages created:
+- `wiki/sources/future-of-ai-driven-digital-forensics.md`
+- `wiki/concepts/quantum-forensics.md`
+
+Pages updated:
+- `wiki/concepts/explainable-ai-in-digital-forensics.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/concepts/proactive-and-reactive-digital-forensics-process.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/index.md`
+- `wiki/bibliography.md`
+- `wiki/overview.md`
+- `wiki/glossary.md`
+- `wiki/log.md`
+- `annotated-bibliography.bib`
+- `annotated-bibliography.tex`
+
+Key additions:
+- Chapter-only ingest of Iyengar et al. (2025) Ch. 12 covering AI-driven DF futures (redundancy reduction, AI-assisted recovery, forensic-tool security, speculative AI�quantum synergy, legal/ethical adaptation).
+- Added quantum-forensics concept with explicit maturity caveats relative to UK validation/ACPO baseline.
+- Extended glossary with model drift, forensic redundancy reduction, quantum forensics, and quantum-resistant encryption.
+- Moved raw PDF to `raw/Processed/` after ingest (full book PDF retained; only Ch. 12 summarized in wiki).
+
+## [2026-08-13] query | AGAFA implications from Future of AI-Driven Digital Forensics (Ch. 12)
+
+Pages consulted:
+- `wiki/sources/future-of-ai-driven-digital-forensics.md`
+- `wiki/products/agafa-framework.md`
+- `wiki/concepts/quantum-forensics.md`
+- `wiki/concepts/explainable-ai-in-digital-forensics.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/analyses/agafa-implications-from-xai-and-method-validation-guidance.md`
+
+Output filed: yes — `wiki/analyses/agafa-implications-from-future-of-ai-driven-digital-forensics.md`

@@ -17,9 +17,9 @@ Each entry follows this format:
 
 | Page | Summary | Updated |
 |---|---|---|
-| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-20 |
-| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-20 |
-| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-04-20 |
+| [[overview]] | High-level synthesis of the entire knowledge base | 2026-08-13 |
+| [[glossary]] | Living terminology, definitions, and style conventions | 2026-08-13 |
+| [[bibliography]] | Master citation list for all ingested sources, maintained on each ingest | 2026-08-13 |
 
 ---
 
@@ -58,6 +58,7 @@ Each entry follows this format:
 - [[theory-solving-made-easy-with-clingo-5]] — clingo 5 architecture and interfaces for integrating theory-specific reasoning across ASP modeling, grounding, and solving | source | 2026-04-22
 - [[llasp-fine-tuning-large-language-models-for-answer-set-programming]] — Evaluation and fine-tuning approach showing lightweight LLM specialization can improve ASP code-generation quality | source | 2026-04-22
 - [[owl-reasoners-still-useable-in-2023]] — Systematic usability/maintenance review of OWL reasoners and reasoner-based systems for practical 2023 deployment decisions | source | 2026-04-22
+- [[future-of-ai-driven-digital-forensics]] — Chapter-only ingest of Iyengar et al. (2025) Ch. 12 on AI-driven DF futures: redundancy reduction, recovery, tool security, and speculative quantum synergy | source | 2026-08-13
 
 ---
 
@@ -73,7 +74,7 @@ Each entry follows this format:
 
 *One entry per product or tool.*
 
-- [[agafa-framework]] — Neuro-symbolic digital forensics framework combining MM-LLM inference with ontology and ASP validation | product | 2026-04-21
+- [[agafa-framework]] — Neuro-symbolic digital forensics framework combining MM-LLM inference with ontology and ASP validation | product | 2026-08-13
 
 ---
 
@@ -89,7 +90,7 @@ Each entry follows this format:
 
 *One entry per core domain concept.*
 
-- [[legal-constraints-in-digital-forensics]] — Legal and procedural constraints shaping admissible, auditable DF workflows | concept | 2026-04-17
+- [[legal-constraints-in-digital-forensics]] — Legal and procedural constraints shaping admissible, auditable DF workflows | concept | 2026-08-13
 - [[neuro-symbolic-ai]] — Hybrid AI approach combining neural learning with symbolic reasoning for transparency and control | concept | 2026-04-17
 - [[retrieval-augmented-generation-rag]] — Retrieval-grounded generation pattern to improve factuality and domain relevance | concept | 2026-04-19
 - [[knowledge-augmented-generation-kag]] — Structured-knowledge-enhanced generation using ontologies/graphs for context-sensitive retrieval | concept | 2026-04-19
@@ -102,12 +103,13 @@ Each entry follows this format:
 - [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-04-19
 - [[rules-and-ontologies-integration]] — Integration pattern combining ontology semantics with explicit rule-based derivations | concept | 2026-04-17
 - [[semantic-web-querying-and-inference-patterns]] — Query and inference pattern families for RDF/ontology-centered reasoning workflows | concept | 2026-04-17
-- [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-04-17
+- [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-08-13
 - [[anti-forensics-in-digital-investigations]] — Adversarial tactics that obstruct evidence discovery, integrity, or interpretation in DF | concept | 2026-04-17
 - [[quality-standards-and-accreditation-in-digital-forensics]] — Quality-system concept linking ISO/IEC 17025-style controls to method validity, competence, and assurance | concept | 2026-04-17
 - [[method-validation-in-digital-forensics]] — End-to-end DF method validation concept covering fit-for-purpose evidence, verification boundaries, and change-triggered revalidation | concept | 2026-04-20
-- [[explainable-ai-in-digital-forensics]] — XAI concept page covering explainability maturity levels, human-on-the-loop oversight, and court-facing communication constraints | concept | 2026-04-20
+- [[explainable-ai-in-digital-forensics]] — XAI concept page covering explainability maturity levels, human-on-the-loop oversight, and court-facing communication constraints | concept | 2026-08-13
 - [[cyber-security-body-of-knowledge-cybok]] — Community cyber-security taxonomy reference for KA-based curriculum and competency alignment | concept | 2026-04-21
+- [[quantum-forensics]] — Emerging speculative framing of quantum computing (often with AI) for large-scale DF analysis, recovery, and post-quantum evidence security | concept | 2026-08-13
 
 ---
 
@@ -139,6 +141,7 @@ Each entry follows this format:
 - [[agafa-executive-summary-implications-from-latest-five-papers]] — One-page executive brief of the main AGAFA deployment implications from the latest five papers, with UK-focused governance emphasis | analysis | 2026-04-21
 - [[case-uco-dfax-implementation-readiness-comparison]] — Readiness-focused comparison recommending CASE+UCO as primary implementation path, with DFAX as legacy/translation reference | analysis | 2026-04-22
 - [[protege-and-clingo-suitability-for-agafa]] — Implementation-fit assessment of using Protégé for ontology governance and clingo for ASP validation in AGAFA workflows | analysis | 2026-04-22
+- [[agafa-implications-from-future-of-ai-driven-digital-forensics]] — Horizon-scan implication map from Iyengar et al. (2025) Ch. 12: near-term dedupe/drift/toolchain actions vs speculative quantum/decryption non-dependencies | analysis | 2026-08-13
 
 ---
 

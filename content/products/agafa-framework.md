@@ -2,8 +2,8 @@
 title: AGAFA Framework
 type: product
 created: 2026-04-17
-updated: 2026-04-21
-sources: [AGAFA.pdf, ACPO.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf]
+updated: 2026-08-13
+sources: [AGAFA.pdf, ACPO.pdf, validation_guidance.pdf, Final-Legal-Procedural-and-Guidance.pdf, Future of AI Driven Digital Forensics.pdf]
 tags: [digital-forensics, xai, neuro-symbolic, llm, ontology, asp]
 ---
 
@@ -41,6 +41,11 @@ AGAFA (Automated Generative AI-Driven Forensic Analysis) is proposed to address 
 ## Sensitive-use handling
 Case examples are summarised at a high level only. No procedural or operational details are retained beyond documentation context.
 
+## Horizon implications from AI-futures literature
+- Near-term fit remains classical neuro-symbolic validation; quantum forensics is tracked as horizon risk/opportunity, not a current AGAFA dependency.
+- Operational themes that can inform AGAFA backlog thinking: forensic redundancy reduction before analysis, monitoring for model drift, and hardening the AI toolchain against adversarial tampering and data-breach vectors.
+- Claims that AI can recover or effectively decrypt material without keys remain outside AGAFA's validated scope and conflict with cautious UK method-validation practice unless separately evidenced.
+
 ## Related pages
 - [[agafa]]
 - [[agafa-ontology-kag-asp-pipeline-suitability]]
@@ -52,3 +57,6 @@ Case examples are summarised at a high level only. No procedural or operational 
 - [[acpo-four-principles-of-digital-evidence]]
 - [[agafa-alignment-with-acpo-principles]]
 - [[legal-and-policy-framework-for-digital-forensics-2022]]
+- [[future-of-ai-driven-digital-forensics]]
+- [[agafa-implications-from-future-of-ai-driven-digital-forensics]]
+- [[quantum-forensics]]
